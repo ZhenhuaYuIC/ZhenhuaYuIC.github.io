@@ -5,60 +5,38 @@ permalink: /opportunities/
 author_profile: true
 toc: true
 ---
-I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
 
-I am always looking for excellent and highly-motivated PhD students, post-doc, and visiting researchers. All our research involves exploiting the wireless channels for innovative applications. The three topics that I am particularly interested are
-* [Key generation from wireless channels](https://junqing-zhang.github.io/research-area/keygen/){:target="_blank"}
-* [Radio frequency fingerprinting identification](https://junqing-zhang.github.io/research-area/rffi/){:target="_blank"}
-* Device free wireless sensing
-
-I am also very keen to explore new areas.
-
-If you are interested, please drop me an email (junqing.zhang at liverpool.ac.uk) with your CV. 
+I am always looking for excellent and highly-motivated PhD students, postdoctoral researchers and visiting researchers. 
 
 {% include toc %}
 
-# Opening
+## PhD Openings
 We are accepting PhD applications all year round.
-
-CSC applications are currently open and the deadline is 31 January 2022. Please contact me with your CV if you are interested.
-
-# Requirement for PhD Admissions
-## Background
-* The applicant should hold or expect to hold a BSc or MSc degree in a relevant discipline such as Electrical Engineering, Computer Science, and Applied Mathematics, etc. 
-* Relevant experience in one or more of the following will be an advantage: wireless communications and networks, software defined radios, cyber security, machine learning, signal processing and statistics, optimisation. 
-* Strong mathematical background and/or programming skills in languages such as MATLAB, Python, C++, R, etc are highly preferred.
-* Good English skills.
-
-## English Language Requirement
-English language test certificate (minimum IELTS 6.5 with no components lower than 5.5 or other equivalent English qualifications)
-
-Please note this requirement is applicable to both full PhD students and visiting PhD students. Please visit our [website](https://www.liverpool.ac.uk/study/international/apply/english-language/){:target="_blank"} for details.
-
-
-# China Scholarship Council for PhD Students 
-We are proud to be the partner of the CSC scholarship. This is a very generous scholarship which provides full financial support. In particular, our university will waive the international tuition fee and CSC will provide the living allowance.
-
+* English Language Requirement
+English language test certificate (minimum IELTS 6.5 overall with a minimum of 6.0 in each skill or other equivalent English qualifications), check out more [here](https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements){:target="_blank"}.
+# Funded PhD project in Robotics, Deadline: April 20, 2022
+This is a fully-funded, 3.5-year PhD studentship. The scholarship will provide funds to cover home tuition fees and living costs in line with UK Research Council funding levels. Check out more in [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575){:target="_blank"}
+# King’s-China Scholarship Council PhD Scholarship programme (K-CSC) for Chinese PhD applicants 
+King's will waive the international tuition fees and the CSC will provide the living allowance.
+K-CSC applications for the 2022-2023 entry are currently closed. Check out more [here](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc){:target="_blank"} for future K-CSC opportunities. 
 The application will open every year around October. Please note this is a two-step application. 
 * Step 1: You should submit a full application (in English) to our university first. You have to get a unconditional offer before you place a CSC application to our university. The deadline for this step is usually in the middle of January. 
 * Step 2: If you are successful at step 1, you will then submit another full application (in Chinese) to the CSC in China. The deadline is usually in the middle of March. The result is usually announced in May.
-If you are successful in both steps, you will be awarded the full scholarship from our University and CSC.
-
-For more information please check [our university website](https://www.liverpool.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/the-university-of-liverpool-and-china-scholarship-council-awards/){:target="_blank"} and also the CSC website. 
+If you are successful in both steps, you will be awarded the full scholarship from King's and CSC.
 
 
-[//]: CSC also has funding for visiting researchers, including visiting PhDs and scholars. The procedures is a little different. Please contact us if you are interested.
+## Postdoctoral research positions
+# PDRA position on object classification and prediction using images and 3D point clouds, Deadline is 20 February, 2022 
+The position is funded by our Innovate UK SMART project "ARRES PREVENT: The world-first autonomous road repair vehicle", check out more details in [this link](https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements){:target="_blank"}.
 
-# UK Jiangsu 20+20 Programme for Visiting Researchers
-If you are PhD students or scholars in universities of Jiangsu Province, China, another potential route is the [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/){:target="_blank"}. 
-
-Please visit [https://ukjs2020.com/](https://ukjs2020.com/){:target="_blank"} or contact me for further information. 
-
-
-# Fellowships
-The School of Electrical Engineering, Electronics and Computer Science hosts numerous staff members awarded prestigious personal fellowships and is strongly committed to attracting and retaining more fellows in the future.   
-
-Please visit this [link](https://www.liverpool.ac.uk/electrical-engineering-electronics-and-computer-science/fellowships/){:target="_blank"} for more information. If you are interested to apply with us, please do not hesitate to contact me.
-
-## Newton International Fellowships for Post-Doc
-The [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} application will open in 2021. Please contact us if you are interested.
+## Fellowships for postdoctoral researchers
+If you want to propose a collaboration based on an externally-funded post-doctoral scholarship, please get in touch with me. Here are some potential funding opportunities:
+* [King’s College London – K. C. Wong Postdoctoral Fellowships](https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A9a09c36e-feb8-302c-8d95-3e5ecee52b0e#pageNum=1){:target="_blank"} 
+* [Dorothy Hodkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/){:target="_blank"} 
+* [Marie-Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/){:target="_blank"} 
+* [EPSRC Post-Doctoral Fellowship](https://epsrc.ukri.org/skills/fellows/areas/){:target="_blank"} 
+* [Royal Society Fellowships for researchers from North America and Asia](http://www.scholarshippost.com/scholarships/royal-society-fellowships/){:target="_blank"} 
+* [Royal Society University Research Fellowship](https://royalsociety.org/grants/schemes/university-research/){:target="_blank"} 
+* [Royal Commission for the Exhibition of 1851 Research Fellowship](http://www.royalcommission1851.org.uk/awards/?award=research){:target="_blank"} 
+* [Royal Academy of Engineering Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} 
+* [Newton International Fellowships](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship){:target="_blank"}
