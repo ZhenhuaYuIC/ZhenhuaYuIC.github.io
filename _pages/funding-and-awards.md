@@ -4,13 +4,13 @@ title: "Funding And Awards"
 permalink: /funding-and-awards/
 author_profile: true
 ---
-# Ongoing Project
+# Ongoing Projects
 * Principal Investigator, EPSRC New Investigator Award, [ViTac: Visual-Tactile Synergy for Handling Flexible Materials](/project-epsrc-nia-vitac/) , £536k, Apr 2021 to Apr 2024
 * Principal Investigator (at King's), EPSRC Innovate UK SMART Grant, [ARRES PREVENT: The World-First Autonomous Road Repair Vehicle](/project-innovateuk-arres/) , £272k, Oct 2021 to Apr 2023
 * Principal Investigator, Unilever funded project, £71k, Oct 2021 to May 2022
 
 
-# Completed Project
+# Completed Projects
 * Knowledge Base Supervisor, "RAMP: Robot Arm Microplate Processing", Innovate UK KTP project, with Astech Projects Ltd, £175k, Nov 2019-Oct 2021
 * Principal Investigator, "Feel Nuclear Sites", RAIN Hub Expansion project, £16.7k, Jun 2020 to Dec 2020
 * Principal Investigator, "[Aerial Swarm Robotics for Active Inspection of Bridges](https://www.cdbb.cam.ac.uk/research/data-science-artificial-intelligence-machine-learning/aerial-swarm-robotics-active#:~:text=Bridge%20collapses%20are%20expensive%20and,the%20monitoring%20coverage%20and%20efficiency.)", funded by CDBB, £73k, Oct 2018 to Jul 2019
