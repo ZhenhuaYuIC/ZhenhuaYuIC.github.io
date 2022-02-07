@@ -4,11 +4,13 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
 # 2022
 * Feb 2022 - Invited to serve as an Associate Editor for IROS 2022.
 * Our Special Issue on “Biomimetic Perception, Cognition, and Control: From Nature to Robots” in Robotics and Automation Magazine closes on 1st Feb, 2022.
 * Jan 2022 - One paper accepted to ICRA 2022.
 * Jan 2022 - One paper accepted to Robotics and Autonomous Systems.
+
 # 2021
 * Dec 2021 - One paper accepted to IEEE Transactions on Haptics.
 * Nov 2021 - Started my new position as Senior Lecturer at King's College London.
