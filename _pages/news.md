@@ -4,32 +4,84 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+# 2022
+* Feb 2022 - Invited to serve as an Associate Editor for IROS 2022.
+* Our Special Issue on “Biomimetic Perception, Cognition, and Control: From Nature to Robots” in Robotics and Automation Magazine closes on 1st Feb, 2022.
+* Jan 2022 - One paper accepted to ICRA 2022.
+* Jan 2022 - One paper accepted to Robotics and Autonomous Systems.
 # 2021
-* 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made soon. Please stay tuned.
-* 3 December 2021: Our paper, “Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments'' has been accepted by IEEE INFOCOM. Congratulations Guyue.
-* 1 December 2021: Our paper, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices'', has been presented at Asilomar 2021. Congratulations Guanxiong. Please visit [link](https://arxiv.org/abs/2111.14275){:target="_blank"} for the preprint.
-* 16 November 2021: Our paper, “Reconfigurable Intelligent Surface Assisted Secret Key Generation in Quasi-Static Environments'' has been accepted by IEEE Communications Letters. Congratulations Tianyu.
-* 1 September 2021: We are recruiting a two-year postdoc for my EPSRC New Investigator Award Project. Please find detailed information at [link](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=033567){:target="_blank"}. The application deadline is 28 September 2021.
-* 28 Aug 2021: Our paper, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems'' has been accepted by IEEE Internet of Things Journal. Congratulations Xinwei.
-* PhD Opening: I have an opening in the area of radio frequency fingerprint identification. Please find more information at [link](https://www.findaphd.com/phds/project/deep-learning-enhanced-device-authentication-for-internet-of-things/?p132053){:target="_blank"} The application deadline is 30 May 2021.
-* 8 July, 2021, Our paper, “H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals'', has been accepted by IEEE Transactions on Mobile Computing. Please refer to [this link](https://junqing-zhang.github.io/demo-keygen-heartbeat-ppg/) for a demonstration.
-* 1 July 2021: My EPSRC New Investigator Award is successful. The project's title is [A New Frontier For Internet of Things Security: Far-Flung Key Generation
-](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V027697/1){:target="_blank"}. We will recruit a two-year postdoc soon.
-* 21 May 2021: We are organizing IEEE VTC Fall 2021 Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G. Please consider to submit your work to it. Submission deadline: 1 July 2021.
-* 27 May 2021: Our paper, “Radio Frequency Fingerprint Identification for Narrowband Systems, Modelling and Classification'' has been accepted by IEEE Transactions on Information Forensics & Security.
-* 3 May, 2021, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning”, has just been accepted by IEEE JSAC Series on Machine Learning in Communications and Networks. Congratulations to Guanxiong.
-* 29 March, 2021, Our paper, “NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks'' has been accepted by IEEE Transactions on Communications. Congratulations Xintao.
-* We are organizing a special section on [Antennas and Array Processing for Physical Layer Wireless Security](https://ieeeaps.org/antennas-and-array-processing-for-physical-layer-wireless-security){:target="_blank"}, IEEE Open Journal of Antennas and Propagation. Please consider to submit your work to it.
+* Dec 2021 - One paper accepted to IEEE Transactions on Haptics.
+* Nov 2021 - Started my new position as Senior Lecturer at King's College London.
+* Nov 2021 - Invited to give a keynote at the UK-China Symposium on Advanced Manufacturing 2021.
+* Oct 2021 - Great to start our Innovate UK funded project "ARRES PREVENT: the world-first autonomous road repair vehicle" with Robotiz3d.
+* Oct 2021 - Invited to give a talk at the IPAB, University of Edinburgh.
+* Sep 2021 - Received the Harold Boley Award for “Most Promising Paper” for our "Logic Rules Meet Deep Learning: A Novel Approach for Ship Type Classification" at RuleML+RR 2021, congratulations to the team!
+* June 2021 - Invited to give a talk at the IRLab, University of Birmingham.
+* June 2021 - Our ViTac 2021 workshop was organised online with more than 200 registered attendees, check out the recordings here.
+* May 2021 - Invited to give a talk at Shandong University, China (online).
+* May 2021 - Our review paper on AR for digital fabrication in archetecture is online, check out here.
+* Apr 2021 - Invited to give a talk at Sino-EU Conference on Intelligent Robots and Automation.
+* Apr 2021 - Our Editorial for the Special Issue “ViTac: Integrating Vision and Touch for Multimodal and Cross-Modal Perception” is online, check out here.
+* Mar 2021 - Invited to act as an external examiner for a PhD examination at Imperial College London.
+* Feb 2021 - Our work on simulation of GelSight sensor has been accepted to RA-L. Congratulations to Daniel! Check out more details here .
+* Jan 2021 - Our ViTac 2021 workshop accepted to ICRA 2021! Come to join us!
 
 # 2020
-* 5 December, 2020, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN”, has just been accepted by INFOCOM 2021. Congratulations to Guanxiong.
-* 12 October, 2020, Our new survey paper, “Key Generation for Internet of Things: A Contemporary Survey”, has just been accepted by ACM Computing Surveys. This is a collaboration with Dr. Weitao Xu at City University of Hong Kong.
-* 14 September, 2020, Our paper "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks" has been accepted by IEEE Transactions on Information Forensics and Security. This paper is a collaboration with Dr. Guyue Li @ Southeast University.
-* 7 August, 2020: A preprint on key generation survey paper, "Key Generation for Internet of Things: A Contemporary Survey", has been available in arxiv. Please check it [here](https://arxiv.org/abs/2007.15956){:target="_blank"}. This paper reviews key generation from wireless channel, audio signals, motions, heartbeats, etc.
-* 29 July, 2020: Our recent key generation survey paper, "A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels", has been accepted by IEEE Access. Please check it [here](https://ieeexplore.ieee.org/document/9149584){:target="_blank"}
-* 19 July, 2020: Please check our latest [Heartbeat Key Generation Demonstration Using PPG Sensors](/demo-keygen-heartbeat-ppg/)
-* 23 June, 2020, Our paper "Encrypting Wireless Communications On the Fly Using One-Time Pad and Key Generation" has been accepted by IEEE Internet of Things Journal, [link](https://ieeexplore.ieee.org/document/9123376){:target="_blank"}
-* 19 June, 2020, Our paper "Design of a Robust Radio Frequency Fingerprint Identification Scheme for Multi-Mode LFM Radar" has been accepted by IEEE Internet of Things Journal, [link](https://ieeexplore.ieee.org/document/9121232){:target="_blank"}
+* Dec 2020 - Honored to have the module "COM338 Computer Vision" I deliver featured in “2020: A year like no other” film of the University of Liverpool (at 00:50s).
+* Oct 2020 - Excited to be granted the EPSRC New Investigator Award, ranked the first in the panel! Check out more about the grant "ViTac: Visual-Tactile Synergy for Handling Flexible Materials".
+* Oct 2020 - Invited to give a talk at IROS 2020 "Autonomous System in Medicine: Current Challenges in Design, Modeling, Perception, Control and Applications" Workshop.
+* Sep 2020 - Invited to co-chair a session "Tactile Sensing" in IROS 2020.
+* Sep 2020 - Invited to be part of the Program Committee for IJCAI 2021.
+* Aug 2020 - One paper accepted to Frontiers in Robotics and AI! Check out our paper and more details in the project website!
+* June 2020 -Two papers accepted to IROS 2020!
+* May 2020 -Our ViTac 2020 workshop will go online for free, come to join us! More details.
+* April 2020 -Funded RAIN Innovation Fund "Feel the Nuclear Sites", working with RACE and Haption!
+* April 2020 -Podcast on how to bring the latest research in automation and robotics into the labs of pharmaceutical R&D, organised by Oxford Global. Check out the podcast here.
+* Feb 2020 -Funded AHRC project with Prof Richard Koeck and Aardman Animations on developing interactive "Shaun the Sheep"!
 
 # 2019
-* 26 March, 2019, We have been awarded a seed grant, Royal Society Research Grants, "_Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning_", £19k. Check more details [here](https://junqing-zhang.github.io/project-rffi-lora/){:target="_blank"}
+* Dec 2019 -Our ViTac 2020 workshop accepted to ICRA 2020! Come to join us!
+* Nov 2019 -Invited talk at the "Simplication in the laboratory" workshop
+* Sep 2019 -Invited talk at the Summer School on Intelligent Sensing, London.
+* Aug 2019 -International Exchange Scheme project funded by Royal Society, with Istituto Italiano di Tecnologia (IIT), Italy. Look forward to the colloboration!
+* Jul 2019 -Granted Higher Education Academy (HEA) Fellowship!
+* Jun 2019 -Recognized as IJCAI 2019 Distinguished Program Committee member.
+* May 2019 -Invited talk at Workshop: Emerging Learning Techniques for Robotics on Wednesday 26th June.
+* Apr 2019 -One paper accepted to ICML 2019! Project page
+* Apr 2019 -Funded KTP project with Prof. Frans Coenen and Dr. Terry Payne and Astech Projects.
+* Apr 2019 –One paper accepted to TAROS 2019.
+* Mar 2019 –Kicking off our AI-related training to PhD students across the Faculty!
+* Jan 2019 –Invited to be part of the Program Committee of IJCAI 2019.
+* Jan 2019 –One paper accepted to ICRA 2019! News
+* Jan 2019 –One paper accepted to AAMAS 2019!
+
+# 2018
+* Dec 2018 – Our ViTac workshop accepted to ICRA2019!
+* Nov 2018 – Invited to be part of the Program Committee of AAMAS 2019.
+* Oct 2018 – Secured a research grant of £73k funded by the CDBB.
+* Oct 2018 – Join the RAIN (Robotics and AI In Nuclear) Hub as a Co-Investigator at Liverpool.
+* Sep 2018 – Welcome Daniel Fernandes Gomes join the smARTLab to start his PhD!
+* Jul 2018 - One paper accepted to Automation in Construction!
+* Jun 2018 – One paper accepted to Autonomous Robots journal!
+* May 2018 - One EPSRC PhD DTP position funded!
+* Jan 2018 – One paper accepted to ICRA 2018!
+* Jan 2018 – One paper accepted to ISBI 2018!
+* Jan 2018 – Moved to the University of Liverpool as a Lecturer (Assistant Professor)
+
+# Before 2018
+* Nov 2017 – One paper accepted to the Mechatronics journal!
+* Sep 2017 – Moved to Harvard University
+* Sep 2017 – Our works demonstrated at RAEng Research Forum!
+* Jun 2017 – Our works demonstrated at IET Robotics Showcase!
+* Jun 2017 – Our works demonstrated at Resilient Infrastructure Challenge!
+* Jun 2017 – Our works on BBC!
+* Mar 2017 – One paper accepted to Neurocomputing
+* Mar 2017 – Three papers accepted to ISARC 2017
+* Aug 2016 – Research visit at CSAIL at MIT until Dec 2016
+* Jul 2016 – One paper accepted to IROS 2016 as an oral presentation
+* Jun 2016 - Our paper on haptics accepted to PLOS One
+* Jun 2016 – Start working at University of Leeds
+* Feb 2016 – Selected as AAAI-16 Robotics Fellowships!
+* Jan 2016 – Passed my Ph.D viva with minor revision!
+* Mar 2015 - One paper accepted to IEEE Sensors Journal
+* Feb 2015 - One paper accepted to ICRA 2015 as an oral presentation
