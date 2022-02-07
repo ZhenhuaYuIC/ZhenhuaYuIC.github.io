@@ -6,15 +6,17 @@ author_profile: true
 toc: true
 ---
 University of Liverpool
-# ELEC463 Mobile Communications and Security
-* Semester 2, 2020 - present
-* MSc 
+# 6CCE3ROS/7CCEMROB - Robotic Systems
+* UGT (Level Three)/PGT
+* King's College London
+* Semester 2, 2022 - present
 
-# ELEC192 Mathematics B for Electrical Engineers
-* Semester 2, 2018 - present 
-* Year 1
+# COMP338 - Computer Vision 
+* UGT (Level Three)
+* University of Liverpool
+* Semester 1, 2020 - 2021 
 
-# ELEC340 Final Year Project
-* 2018 - present 
-* Year 3
-* Please click [here](/teaching-fyp/){:target="_blank"} for the final year projects that I am supervising and have supervised.
+# COMP532 - Machine Learning
+* PGT 
+* University of Liverpool.
+* Semester 2, 2018 - 2021 
