@@ -5,14 +5,18 @@ permalink: /funding-and-awards/
 author_profile: true
 ---
 # Ongoing Project
-* Principal Investigator, EPSRC New Investigator Award, [A New Frontier For Internet of Things Security: Far-Flung Key Generation](/project-epsrc-nia-keygen/) , £251k, July 2021 to June 2023
+* Principal Investigator, EPSRC New Investigator Award, [ViTac: Visual-Tactile Synergy for Handling Flexible Materials](/project-epsrc-nia-vitac/) , £536k, Apr 2021 to Apr 2024
+* Principal Investigator (at King's), EPSRC Innovate UK SMART Grant, [ARRES PREVENT: The World-First Autonomous Road Repair Vehicle](/project-innovateuk-arres/) , £272k, Oct 2021 to Apr 2023
+* Principal Investigator, Unilever funded project, £71k, Oct 2021 to May 2022
 
 
 # Completed Project
-* Principal Investigator, Royal Society Research Grants, [Classifying Wireless Siblings of the LoRa Family, Radio Frequency Fingerprint Identification using Deep Learning](/project-rffi-lora/), £19k, March 2019 to March 2020
+* Knowledge Base Supervisor, "RAMP: Robot Arm Microplate Processing", Innovate UK KTP project, with Astech Projects Ltd, £175k, Nov 2019-Oct 2021
+* Principal Investigator, "Feel Nuclear Sites", RAIN Hub Expansion project, £16.7k, Jun 2020 to Dec 2020
+* Principal Investigator, "[Aerial Swarm Robotics for Active Inspection of Bridges](https://www.cdbb.cam.ac.uk/research/data-science-artificial-intelligence-machine-learning/aerial-swarm-robotics-active#:~:text=Bridge%20collapses%20are%20expensive%20and,the%20monitoring%20coverage%20and%20efficiency.)", funded by CDBB, £73k, Oct 2018 to Jul 2019
+* Co-Investigator, AHRC "[Shaun the Sheep: Immersive Experience](https://gtr.ukri.org/projects?ref=AH%2FT011424%2F1)", £1.1m, Mar 2020 to Jul 2022
+* Co-Investigator, EPSRC "[Robotics and Artificial Intelligence for Nuclear (RAIN) Hub](https://rainhub.org.uk/), £11.9m, Oct 2018 to Apr 2021
 
-# Travel Grants
-* [UK-China University Consortium on Engineering Education and Research (UKCEER)](http://www.ukchinaengineering.com/){:target="_blank"} Mobility Grant for Early Career Researchers, Host: Professor Aiqun Hu in Southeast University, China, Aug., 2019, £3,000
-* British Council Travel Grant – The Researcher Links initiative in Turkey, Sept., 2017, £1,500
-* IEEE Signal Processing Society Travel Grants for ICASSP 2015
-* Queen’s University Belfast Emily Sarah Montgomery Travel Scholarship 2015
+# Exchange/Travel Grants
+* Principal Investigator, Royal Society International Exchanges 2020 Cost Share (NSFC), with Shandong University, £11,46k
+* Co-Investigator, Royal Society International Exchanges Scheme, with Istituto Italiano di Tecnologia (IIT), £12k
