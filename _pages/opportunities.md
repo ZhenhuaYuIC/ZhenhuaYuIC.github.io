@@ -10,13 +10,13 @@ I am always looking for excellent and highly-motivated PhD students, postdoctora
 
 {% include toc %}
 
-## PhD Openings
+# PhD Openings
 We are accepting PhD applications all year round.
 * English Language Requirement
 English language test certificate (minimum IELTS 6.5 overall with a minimum of 6.0 in each skill or other equivalent English qualifications), check out more [here](https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements){:target="_blank"}.
-# Funded PhD project in Robotics, Deadline: April 20, 2022
+## Funded PhD project in Robotics, Deadline: April 20, 2022
 This is a fully-funded, 3.5-year PhD studentship. The scholarship will provide funds to cover home tuition fees and living costs in line with UK Research Council funding levels. Check out more in [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575){:target="_blank"}
-# King’s-China Scholarship Council PhD Scholarship programme (K-CSC) for Chinese PhD applicants 
+## King’s-China Scholarship Council PhD Scholarship programme (K-CSC) for Chinese PhD applicants 
 King's will waive the international tuition fees and the CSC will provide the living allowance.
 K-CSC applications for the 2022-2023 entry are currently closed. Check out more [here](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc){:target="_blank"} for future K-CSC opportunities. 
 The application will open every year around October. Please note this is a two-step application. 
@@ -25,18 +25,18 @@ The application will open every year around October. Please note this is a two-s
 If you are successful in both steps, you will be awarded the full scholarship from King's and CSC.
 
 
-## Postdoctoral research positions
-# PDRA position on object classification and prediction using images and 3D point clouds, Deadline is 20 February, 2022 
+# Postdoctoral research positions
+## PDRA position on object classification and prediction using images and 3D point clouds, Deadline is 20 February, 2022 
 The position is funded by our Innovate UK SMART project "ARRES PREVENT: The world-first autonomous road repair vehicle", check out more details in [this link](https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements){:target="_blank"}.
 
 ## Fellowships for postdoctoral researchers
 If you want to propose a collaboration based on an externally-funded post-doctoral scholarship, please get in touch with me. Here are some potential funding opportunities:
-* [King’s College London – K. C. Wong Postdoctoral Fellowships](https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A9a09c36e-feb8-302c-8d95-3e5ecee52b0e#pageNum=1){:target="_blank"} 
-* [Dorothy Hodkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/){:target="_blank"} 
-* [Marie-Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/){:target="_blank"} 
-* [EPSRC Post-Doctoral Fellowship](https://epsrc.ukri.org/skills/fellows/areas/){:target="_blank"} 
-* [Royal Society Fellowships for researchers from North America and Asia](http://www.scholarshippost.com/scholarships/royal-society-fellowships/){:target="_blank"} 
-* [Royal Society University Research Fellowship](https://royalsociety.org/grants/schemes/university-research/){:target="_blank"} 
-* [Royal Commission for the Exhibition of 1851 Research Fellowship](http://www.royalcommission1851.org.uk/awards/?award=research){:target="_blank"} 
-* [Royal Academy of Engineering Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/){:target="_blank"} 
-* [Newton International Fellowships](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship){:target="_blank"}
+* [King’s College London – K. C. Wong Postdoctoral Fellowships](https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A9a09c36e-feb8-302c-8d95-3e5ecee52b0e#pageNum=1)
+* [Dorothy Hodkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/) 
+* [Marie-Curie Fellowship](http://ec.europa.eu/research/mariecurieactions/)
+* [EPSRC Post-Doctoral Fellowship](https://epsrc.ukri.org/skills/fellows/areas/)
+* [Royal Society Fellowships for researchers from North America and Asia](http://www.scholarshippost.com/scholarships/royal-society-fellowships/)
+* [Royal Society University Research Fellowship](https://royalsociety.org/grants/schemes/university-research/)
+* [Royal Commission for the Exhibition of 1851 Research Fellowship](http://www.royalcommission1851.org.uk/awards/?award=research)
+* [Royal Academy of Engineering Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
+* [Newton International Fellowships](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
