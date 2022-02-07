@@ -23,7 +23,8 @@ The application will open every year around October. Please note this is a two-s
 * Step 1: You should submit a full application (in English) to our university first. You have to get a unconditional offer before you place a CSC application to our university. The deadline for this step is usually in the middle of January. 
 * Step 2: If you are successful at step 1, you will then submit another full application (in Chinese) to the CSC in China. The deadline is usually in the middle of March. The result is usually announced in May.
 If you are successful in both steps, you will be awarded the full scholarship from King's and CSC.
-## [Student funding at King's](https://www.kcl.ac.uk/study-legacy/postgraduate/fees-and-funding/student-funding) 
+## Other student funding at King's
+You can check out other student funding at King's [here](https://www.kcl.ac.uk/study-legacy/postgraduate/fees-and-funding/student-funding) 
 
 
 # Postdoctoral research positions
