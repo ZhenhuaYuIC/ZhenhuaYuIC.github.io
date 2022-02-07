@@ -3,12 +3,12 @@ layout: archive
 title: "Opportunities"
 permalink: /opportunities/
 author_profile: true
-toc: true
+toc: false
 ---
 
 I am always looking for excellent and highly-motivated PhD students, postdoctoral researchers and visiting researchers. 
 
-{% include toc %}
+<!-- {% include toc %} -->
 
 # PhD Openings
 We are accepting PhD applications all year round.
