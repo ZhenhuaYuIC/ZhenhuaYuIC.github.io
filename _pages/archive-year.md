@@ -1,7 +1,7 @@
 ---
 title: "Posts by Year"
 permalink: /archive-year/
-layout: posts
+<!-- layout: posts -->
 author_profile: true
 ---
 To be updated.
