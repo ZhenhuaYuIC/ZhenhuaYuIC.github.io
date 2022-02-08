@@ -37,8 +37,7 @@ Vehicles”, IEEE Transactions on Haptics, accepted. [link](https://ieeexplore.i
 
 
 # Conference Papers
-1. T. Jianu, D.F. Gomes, **S. Luo**, “Reducing Tactile Sim2Real Domain Gaps via Deep Texture Generation Networks”, IEEE International Conference on Robotics and Automation (ICRA),
-2022.
+1. T. Jianu, D.F. Gomes, **S. Luo**, “Reducing Tactile Sim2Real Domain Gaps via Deep Texture Generation Networks”, IEEE International Conference on Robotics and Automation (ICRA), 2022.
 1. M. Pitsikalis, A. Lisitsa, **S. Luo**, “Representation and Processing of Instantaneous and Durative Temporal Phenomena”, 31st International Symposium on Logic-Based Program
 Synthesis and Transformation (LOPSTR), 2021.
 1. M. Pitsikalis, T.-T. Do, A. Lisitsa and **S. Luo**, “Ship Type Classification Using Vessel Images and AIS Data”, 5th International Joint Conference on Rules and Reasoning (RuleML+RR 2021), Harold Boley Award for the Most Promising Paper.
@@ -50,8 +49,7 @@ Automation (MED), 2021 (invited paper).
 1. G. Cao, Y. Zhou, D. Bollegala, **S. Luo**, “Spatio-Temporal Attention Model for Tactile Texture Recognition”, IEEE/RSJ International Conference on Intelligent Robots and
 Systems (IROS), 2020.
 1. Z. Jiang, **S. Luo**, “Neural Logic Reinforcement Learning”, International Conference on Machine Learning (ICML), 2019.
-1. D. F. Gomes, **S. Luo**, and L. F. Teixeira, GarmNet: Local and Global Perception for Robotic Laundry Folding, Towards Autonomous Robotic Systems Conference (TAROS),
-2019.
+1. D. F. Gomes, **S. Luo**, and L. F. Teixeira, GarmNet: Local and Global Perception for Robotic Laundry Folding, Towards Autonomous Robotic Systems Conference (TAROS), 2019.
 1. J. Lee, D. Bollegala, **S. Luo**, “Touching to See” and “Seeing to Feel”: Robotic Cross-modal Sensory Data Generation for Visual-Tactile Perception”, IEEE International Conference on Robotics and Automation (ICRA), 2019.
 1. B. Schnieders, **S. Luo**, G. Palmer, K. Tuyls, “Fully Convolutional One-Shot Object Segmentation for Industrial Robotics”, International Conference on Autonomous Agents and
 Multiagent Systems (AAMAS), 2019.
