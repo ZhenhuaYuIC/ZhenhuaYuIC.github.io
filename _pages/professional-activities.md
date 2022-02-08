@@ -14,9 +14,9 @@ toc_max_header: 1
 
 
 # Program Chair
-* ``ViTac 2021: Trends and Challenges in Visuo-Tactile Perception'' Workshop in ICRA 2021. Co-orgnisers: Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Wenzhen Yuan (Carnegie Mellon University); Kaspar Althoefer (Queen Mary University of London); Gordon Cheng (Technische Universität München).
-* ``ViTac 2020: Closing the Perception-Action Loop with Vision and Tactile Sensing'' Workshop in ICRA 2020. Co-orgnisers: Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Wenzhen Yuan (Carnegie Mellon University); Gordon Cheng (Technische Universität München).
-* ``ViTac: Integrating Vision and Touch for Multimodal and Cross-modal Perception'' Workshop in ICRA 2019. Co-orgnisers: Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Uriel Martinez Hernandez (University of Bath); João Bimbo (Yale University); Huaping Liu (Tsinghua University)
+* ``ViTac 2021: Trends and Challenges in Visuo-Tactile Perception'' Workshop in ICRA 2021. Co-orgnisers: Prof. Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Prof. Wenzhen Yuan (Carnegie Mellon University); Prof. Kaspar Althoefer (Queen Mary University of London); Prof. Gordon Cheng (Technische Universität München).
+* ``ViTac 2020: Closing the Perception-Action Loop with Vision and Tactile Sensing'' Workshop in ICRA 2020. Co-orgnisers: Prof. Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Prof. Wenzhen Yuan (Carnegie Mellon University); Prof. Gordon Cheng (Technische Universität München).
+* ``ViTac: Integrating Vision and Touch for Multimodal and Cross-modal Perception'' Workshop in ICRA 2019. Co-orgnisers: Prof. Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Prof. Uriel Martinez Hernandez (University of Bath); Prof. João Bimbo (Yale University); Prof. Huaping Liu (Tsinghua University)
 
 # Guest Editor
 * Chenguang (Charlie) Yang, **Shan Luo** and Nathan F. Lepora, Special Issue ``Biomimetic Perception, Cognition, and Control: From Nature to Robots", at the IEEE Robotics & Automation Magazine (RAM)
