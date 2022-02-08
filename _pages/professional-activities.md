@@ -8,10 +8,6 @@ toc_max_header: 1
 ---
 {% include toc h_min = 1%}
 
-# Invited Talk
-* Invited by Prof Mark Beach and Dr. Magnus Sandell to give a talk at University of Bristol, 10th January 2022
-* Invited by Prof Huiyu Zhou from the University of Leicester to give a keynote speech at the 2nd Workshop for Sino-UK to Promote the Development and Application of Artificial Intelligence, 10th December 2021
-
 
 # Program Chair
 * ``ViTac 2021: Trends and Challenges in Visuo-Tactile Perception'' Workshop in ICRA 2021. Co-orgnisers: Prof. Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Prof. Wenzhen Yuan (Carnegie Mellon University); Prof. Kaspar Althoefer (Queen Mary University of London); Prof. Gordon Cheng (Technische Universität München).
