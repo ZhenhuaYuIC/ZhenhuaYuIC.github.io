@@ -29,7 +29,7 @@ You can check out other student funding at King's [here](https://www.kcl.ac.uk/s
 
 # Postdoctoral research positions
 ## PDRA position on object classification and prediction using images and 3D point clouds, Deadline is 20 February, 2022 
-The position is funded by our Innovate UK SMART project "ARRES PREVENT: The world-first autonomous road repair vehicle", check out more details in [this link](https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements){:target="_blank"}.
+The position is funded by our Innovate UK SMART project "ARRES PREVENT: The world-first autonomous road repair vehicle", check out more details in [this link](https://jobs.kcl.ac.uk/gb/en/job/040571/Research-Associate){:target="_blank"}.
 
 ## Fellowships for postdoctoral researchers
 If you want to propose a collaboration based on an externally-funded post-doctoral scholarship, please get in touch with me. Here are some potential funding opportunities:
