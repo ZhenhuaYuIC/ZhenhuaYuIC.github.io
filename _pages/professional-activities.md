@@ -8,122 +8,73 @@ toc_max_header: 1
 ---
 {% include toc h_min = 1%}
 
-# Public Engagement
-## STEM for BRITAIN 2017
-* **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf){:target="_blank"}
-* STEM for BRITAIN is an annual poster exhibition in the House of Commons, U.K., with the overall aim to encourage, support and promote early career researchers in the U.K. The event is organized by the Parliamentary and Scientific Committee, the Royal Academy of Engineering, the Royal Society of Chemistry, the Institute of Physics and the Society of Biology.
-
-# Tutorial
-* Physical Layer Security for Internet of Things, Hanoi University of Science and Technology, Vietnam, 14th July, 2018
-
 # Invited Talk
 * Invited by Prof Mark Beach and Dr. Magnus Sandell to give a talk at University of Bristol, 10th January 2022
 * Invited by Prof Huiyu Zhou from the University of Leicester to give a keynote speech at the 2nd Workshop for Sino-UK to Promote the Development and Application of Artificial Intelligence, 10th December 2021
-* Invited by Prof Yanzhao Xie at Xian Jiaotong University, China, 6th December 2021
-* Invited by Dr. Kyeong Soo Kim at Xian Jiaotong-Liverpool University, China, 2nd Sept., 2019
-* Invited by Prof. Chao Wang at Tianjin University, China, 30th Aug., 2019
-* Invited by Prof. Haiping Huang at Nanjing University of Posts and Telecommunications, China, 23rd Aug., 2019
-* Invited by Dr. Linning Peng at Southeast University, China, 22nd Aug., 2019
-* Invited talk at Zhijiang Lab, China, 16th Aug., 2019
-* Invited by Dr. Yuan Ding at Heriot-Watt University, UK, 19th July, 2019
-* Invited by Prof. Weisi Guo for the H2020 DAWN4IOE Research Workshop at University of Sheffield, UK, 11th July, 2019
-* Invited talk at Joint Workshop of University of Liverpool-Xian Jiaotong University at University of Liverpool, UK, 24th June, 2019
-* Invited by Dr. An Liu at Zhejiang University, China, 4th Sept., 2018
-* IEEE Seventh International Conference on Communications and Electronics, Hue, Vietnam, 19th July, 2018
-* Invited by Dr. Weisi Guo at Warwick University, UK, 1st June, 2018
-* Invited by Prof. Jie Xu at Guangdong University of Technology, China, 22nd Dec., 2017
-* Invited by Dr. Caijun Zhong at Zhejiang University, China, 28th Apr., 2017
-* Invited by Prof. Aiqun Hu at Southeast University, China, 26th Dec., 2016
-* Roger Woods, Alan Marshall, and Junqing Zhang, IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security (TCPLS), Washington DC, USA, 8th Dec., 2016
 
-# Poster Presentation
-* Symposium on New Trends in Communication Engineering, "Key Generation From Wireless Channels, Lightweight Security for Internet of Things", University of Sheffield, 23th July, 2019
-* Queen’s University Belfast Postdoc Showcase - Poster Competition, "Safeguarding Internet of Things using innovative physical layer security", Queen's University Belfast, 12th Sept., 2017
 
-# Editorship
-* Editor of EAI Transactions on Industrial Networks and Intelligent Systems (Jan. 2018 to present)
-* Review Editor of  IoT and Sensor Networks Section, Frontiers in Communications and Networks (May 2020 to present)
+# Program Chair
+* ``ViTac 2021: Trends and Challenges in Visuo-Tactile Perception'' Workshop in ICRA 2021. Co-orgnisers: Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Wenzhen Yuan (Carnegie Mellon University); Kaspar Althoefer (Queen Mary University of London); Gordon Cheng (Technische Universität München).
+* ``ViTac 2020: Closing the Perception-Action Loop with Vision and Tactile Sensing'' Workshop in ICRA 2020. Co-orgnisers: Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Wenzhen Yuan (Carnegie Mellon University); Gordon Cheng (Technische Universität München).
+* ``ViTac: Integrating Vision and Touch for Multimodal and Cross-modal Perception'' Workshop in ICRA 2019. Co-orgnisers: Nathan Lepora (Univ Bristol \& Bristol Robotics Lab); Uriel Martinez Hernandez (University of Bath); João Bimbo (Yale University); Huaping Liu (Tsinghua University)
 
 # Guest Editor
-* Special Section on Antennas and Array Processing for Physical Layer Wireless Security, IEEE Open Journal of Antennas and Propagation
-* Special Issue on Security Threats to Artificial Intelligence-Driven Wireless Communication Systems, Security and Communications Networks, [link](https://www.hindawi.com/journals/scn/si/489130/cfp/){:target="_blank"}
+* Chenguang (Charlie) Yang, **Shan Luo** and Nathan F. Lepora, Special Issue ``Biomimetic Perception, Cognition, and Control: From Nature to Robots", at the IEEE Robotics & Automation Magazine (RAM)
+* **Shan Luo**, Nathan F. Lepora, Uriel Martinez-Hernandez, Joao Bimbo and Huaping Liu, Special Issue ``ViTac: Integrating Vision and Touch for Multimodal and Cross-modal Perception'' in [Frontiers in Robotics and AI](https://www.frontiersin.org/research-topics/10004/vitac-integrating-vision-and-touch-for-multimodal-and-cross-modal-perception)
 
-# Technical Conference Co-Chair
-* Co-Chairs of Signal Processing for Communications Symposium at IEEE International Conference on Communications (ICC) 2023
-* Co-Chairs of Wireless Networking and Multimedia Symposium at IEEE/CIC International Conference on Communications in China 2022
-* Co-chair of Emerging Areas in Wireless Communications, International Conference on Recent Advances on Signal Processing, Telecommunications & Computing 2018
+# Associate Editor for Conferences
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022
+* IEEE International Conference on Robotics and Automation (ICRA) 2022
 
-# Workshop Co-Chair
-* IEEE VTC Fall 2021 Workshop on Emerging Physical-layer Security Technologies and Applications for B5G and 6G  
-* IEEE GLOBECOM 2018 6th Workshop on Trusted Communications with Physical Layer Security
+# Chairing Sessions at Conferences
+* ``Tactile Sensing" session at IROS 2020;
+* ``Learning, Mapping and Planning" session at TAROS 2020.
 
-# Session Chair
-* IEEE GLOBECOM 2016 Signal Processing for Communications Symposium, Security and Secrecy Track
+# Program Committee
+* UK Robot Manipulation Workshop
+* International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+* International Joint Conference on Artificial Intelligence (**Distinguished PC member**)
+* International Conference on Autonomous Agents and Multiagent Systems 
+* Towards Autonomous Robotic Systems Conference
 
-# TPC Member
-* IEEE International Conference on Communications (ICC): Communication and Information Systems Security Symposium, 2019 - 2022
-* IEEE International Conference on Communications (ICC): Wireless Communications Symposium, 2019 - 2022
-* IEEE GLOBECOM: Signal Processing for Communications Symposium, 2016 - 2021
-* IEEE GLOBECOM: Green Communication Systems and Networks, 2019 - 2022
-* IEEE GLOBECOM 2019 Cognitive Radio and AI-Enabled Networks Symposium
-* IEEE VTC 2018 Fall Wireless Networks: Protocols, Security and Services Track
-* IEEE GLOBECOM 2018 Cognitive Radio and Networks Symposium
-* International Conference on Computing, Networking and Communications 2018 Signal Processing for Communications Symposium
-* IEEE Vehicular Technology Conference (VTC) 2017 Spring Recent Results and Workshops - W1: High Mobility Wireless Communications (HMWC)
-* IEEE Vehicular Technology Conference (VTC) 2017 Spring Recent Results and Workshops - W5: Wireless Access Technologies and Architectures for Internet of Things (IoT) Applications
-* IEEE GLOBECOM Workshop on Trusted Communications with Physical Layer Security, 2016, 2017
+# (Selected) Invited talks
+* Intelligent Robotics Lab, University of Birmingham, 2021 (Online) [video recording](https://www.youtube.com/watch?v=6y_t1On2M_c&t=121s)
+* Centre for Vision, Speech and Signal Processing (CVSSP), Surrey University, 2021 (Online)
+* Sino-EU Conference on Intelligent Robots and Automation, 2021 (Online)
+* Panelist, ``Towards the Lab of the Future", Smartlabs and Laboratory Informatics Congress, and [PharmaTec Congress](https://www.oxfordglobal.co.uk/pharmatec-series-virtual/), 2020 (Online)
+* Podcast [Automating Lab of the Future: Perspectives from Industry and Academia](https://www.oxfordglobal.co.uk/hub/automating-the-lab-of-the-future-perspectives-from-industry-and-academia/), 2020
+* Machine Learning and Optimisation Group, University of Manchester, 2019
+* ``[Simplication in the laboratory](https://sila-standard.com/register-now-for-sila-elrig-workshopdrug-discovery-2019-november-6th/#gallery)"} workshop, 2019.
+* Oxford Robotics Institute, University of Oxford, 2019
+* Centre for Digital Built Britain, University of Cambridge, 2019
+* [Summer School on Intelligent Sensing](http://cis.eecs.qmul.ac.uk/school2019.html), London, 2019
+* School of Electronic Engineering and Computer Science, Queen Mary University of London
+* [Emerging Learning Techniques for Robotics](https://www.ukras.org/wp-content/uploads/2019/05/WAPM12-1.pdf), Hamlyn Symposium Workshops, 2019
+* Mitsubishi Electric Research Laboratory (MERL), Cambridge, USA, 2018
+* State Key Laboratory of Intelligent Technology and Systems, Tsinghua University, 2018
+* The Chinese University of Hong Kong (Shenzhen), 2018
+* School of Informatics, The University of Edinburgh, 2018
+* School of Mechanical Engineering, University of Leeds, UK, 2017
+* Computer Science and Artificial Intelligence Laboratory (CSAIL), MIT, USA, 2016
+* Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, UK, 2016
 
-# Technical Reviewer
-**Proposal**
-* Vietnam National Foundation for Science and Technology Development (NAFOSTED) 2018
-
-**Journal**
-
-Please check my review record at [Publons](https://publons.com/researcher/3021376/junqing-zhang/peer-review/){:target="_blank"}.
-
-* The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-* IEEE Journal on Selected Areas in Communications
-* IEEE Wireless Communications Magazine
-* IEEE Communications Magazine
-* IEEE Network Magazine
-* IEEE Vehicular Technology Magazine
-* IEEE Journal on Selected Areas in Communications
-* IEEE Transactions on Communications
-* IEEE Transactions on Wireless Communications
-* IEEE Transactions on Information Forensics and Security
-* IEEE Transactions on Signal Processing
-* IEEE Transactions on Vehicular Technology
-* IEEE Transactions on Mobile Computing
-* IEEE Transactions on Dependable and Secure Computing
-* IEEE Transactions on Computers
-* IEEE Internet of Things Journal
-* IEEE Access
-* IEEE Communications Letters
-* IEEE Wireless Communications Letters
-* IEEE Signal Processing Letters
-* ACM Transactions on Embedded Computing Systems
-* IET Communications
-* IET Electronics Letters
-* China Communications
-* Wiley Transactions on Emerging Telecommunications Technologies
-* Springer Mobile Networks and Applications
-* Springer Wireless Networks
-* EURASIP Journal on Wireless Communications and Networking
-* International Journal of Distributed Sensor Networks
-* Wireless Communications and Mobile Computing
-* Physical Communication
-* MDPI Sensors
-* MDPI Cryptography
-
-**Conference**
-* IEEE Conference on Communications and Network Security (CNS) 2018
-* IEEE GLOBECOM 2014 - 2017
-* IEEE International Conference on Communications (ICC) 2016, 2017, 2019
-* IEEE Asilomar
-* IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2019
-* IEEE Wireless Communications and Networking Conference (WCNC) 2017, 2018
-* IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 2016
-* IEEE/CIC International Conference on Communications in China (ICCC) 2017
-* International Conference on Computing, Networking and Communications 2018
-* IEEE Workshop on Signal Processing Systems 2018
-* European Conference on Networks and Communications (EuCNC) 2019
+# Reviewer
+* IEEE Transactions on Robotics
+* Robotics and Autonomous Systems 
+* Nature Machine Intelligence
+* IEEE Transactions on Biomedical Engineering 
+* IEEE Transactions on Industrial Electronics 
+* IEEE Transactions on Industrial Informatics 
+* Artificial Intelligence Journal 
+* Sensors and Actuators A: Physical 
+* Advanced Robotics 
+* IEEE Sensors Journal 
+* IEEE Robotics and Automation Letters 
+* International Journal of Advanced Robotic Systems 
+* International Journal of Humanoid Robotics 
+* IEEE International Conference on Robotics and Automation (ICRA) 
+* IEEE International Conference on Intelligent Robots and Systems (IROS)
+* Conference on Computer Vision and Pattern Recognition (CVPR)
+* International Conference on Computer Vision (ICCV)
+* Robotics: Science and Systems (RSS)
+* Conference on Robot Learning (CoRL)
