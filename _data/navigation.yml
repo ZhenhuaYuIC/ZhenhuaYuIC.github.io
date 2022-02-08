@@ -3,23 +3,23 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Publication"
+  - title: "Publications"
     url: /publication/
-    children:
-      - title: "Key Generation Publication"
-        url: /posts/2019/04/blog-post-keygen_liv_pub/
+ #    children:
+ #      - title: "Key Generation Publication"
+ #        url: /posts/2019/04/blog-post-keygen_liv_pub/
 
-  - title: "People"
+  - title: "Lab members"
     url: /people/
 
   - title: "Opportunities"
     url: /opportunities/
 
 
-  - title: "Funding & Award"
+  - title: "Funding & Awards"
     url: /funding-and-awards/
 
-  - title: "Professional Activity"
+  - title: "Professional Activities"
     url: /professional-activities/
 
 #  - title: "CV"
@@ -28,5 +28,5 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Blog"
-    url: /archive-year/
+ # - title: "Blog"
+ #   url: /archive-year/
