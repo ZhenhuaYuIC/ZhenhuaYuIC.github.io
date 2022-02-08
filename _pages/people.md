@@ -6,15 +6,13 @@ author_profile: true
 toc: true
 ---
 
-I am affiliated to the Advanced Networks Research Group at University of Liverpool. Our group has six academic staff and has strong expertise in the area of wireless communication, wireless security, trust, information theory, artificial intelligence applications in communications, signal processing for communications, 5G, embedded system designs. We very welcome research collaborations and visits.
-
 # PDRA
-* Dr. Chen Chen. Research topic: key generation from wireless channel. January 2022 to December 2023
+* Dr. Leszek Pecyna
 
 # PhD Students
 ## Main Supervisor
-* Mr. Guanxiong Shen, co-supervision with Prof Alan Marshall (Nov., 2019 to present). Research topic: Radio frequency fingerprinting identification
-* Mr. Guolin Yin, co-supervision with Dr. Xinping Yi and Prof Alan Marshall (September 2020 to present). Research topic: Device free wireless sensing
-* Miss Jie Ma, co-supervision with Prof Alan Marshall (July 2021 to present). Research topic: Radio frequency fingerprinting identification
-* Miss Yijia Guo, co-supervision with Prof Yao-Win Peter Hong, National Tsing Hua University (November 2021 to present). Research topic: Radio frequency fingerprinting identification
-
+* [Daniel Fernandes Gomes](https://danfergo.github.io/), co-supervision with Dr Paolo Paoletti (Oct., 2018 to present). Research topic: tactile sensing, simulation of tactile sensing, 
+* [Jiaqi Jiang](https://jiaqirobot.org/), co-supervision with Dr. Thanh-Toan Do (Sep. 2019 to present). Research topic: transparent object detection and grasping, robot vision and tactile sensing 
+* [Konstantinos Alexandridis](https://kostas1515.github.io/), co-supervision with Dr Anh Nguyen (Sep. 2019 to present). Research topic: Long-tail object detection
+* [Guanqun Cao](https://smartguan.org/), co-supervision with Prof. Danuashka Bollegala, (Sep. 2019 to present). Research topic: tactile sensing, generative models
+* Aaron Butterworth, co-supervision with Prof. Andy Cooper, (Sep. 2020 to present). Research topic: laboratory automation, visuo-tactile learning
