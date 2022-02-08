@@ -40,5 +40,5 @@ If you want to propose a collaboration based on an externally-funded post-doctor
 * [Royal Society Fellowships for researchers from North America and Asia](http://www.scholarshippost.com/scholarships/royal-society-fellowships/)
 * [Royal Society University Research Fellowship](https://royalsociety.org/grants/schemes/university-research/)
 * [Royal Commission for the Exhibition of 1851 Research Fellowship](http://www.royalcommission1851.org.uk/awards/?award=research)
-* [Royal Academy of Engineering Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
-* [Newton International Fellowships](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
+* [Royal Academy of Engineering Fellowship](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
+* [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
