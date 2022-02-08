@@ -20,7 +20,7 @@ This is a fully-funded, 3.5-year PhD studentship. The scholarship will provide f
 King's will waive the international tuition fees and the CSC will provide the living allowance.
 K-CSC applications for the 2022-2023 entry are currently closed. Check out more [here](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc){:target="_blank"} for future K-CSC opportunities. 
 The application will open every year around October. Please note this is a two-step application. 
-* Step 1: You should submit a full application (in English) to our university first. You have to get a unconditional offer before you place a CSC application to our university. The deadline for this step is usually in the middle of January. 
+* Step 1: You should submit a full application (in English) to King's first. You have to get a unconditional offer before you place a CSC application to King's. The deadline for this step is usually in the early or middle of January. 
 * Step 2: If you are successful at step 1, you will then submit another full application (in Chinese) to the CSC in China. The deadline is usually in the middle of March. The result is usually announced in May.
 If you are successful in both steps, you will be awarded the full scholarship from King's and CSC.
 ## Other student funding at King's
