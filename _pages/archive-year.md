@@ -5,6 +5,3 @@ layout: posts
 author_profile: true
 ---
 To be updated.
-<!-- ## [Posts by Category](/categories/)
-## [Posts by Tag](/tags/)
-## Posts by Year -->
