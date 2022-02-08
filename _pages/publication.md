@@ -20,7 +20,7 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 
 # Journal Articles
 1. Y. Luo, J. Wang, R. Shi, H.N. Liang, **S. Luo**, “In-Device Feedback in Immersive Head-Mounted Displays for Distance Perception During Teleoperation of Unmanned Ground
-Vehicles”, IEEE Transactions on Haptics, accepted. [link](https://ieeexplore.ieee.org/document/9664257){:target="_blank"}
+Vehicles”, IEEE Transactions on Haptics, accepted. [paper link](https://ieeexplore.ieee.org/document/9664257)
 1. D.F. Gomes, P. Paoletti, **S. Luo**, “Generation of GelSight Tactile Images for Sim2Real Learning”, IEEE Robotics and Automation Letters, 2021.
 1. Y. Song, R. Koeck, **S. Luo**, “Review and Analysis of Augmented Reality for Digital Fabrication in Architecture”, Automation in Construction, 2021.
 1. **S. Luo**, N. F. Lepora, U. Martinez-Hernandez, J. Bimbo and H. Liu, “Editorial: “ViTac: Integrating Vision and Touch for Multimodal and Cross-Modal Perception”” Frontiers in Robotics and AI, 2021.
