@@ -22,7 +22,7 @@ Email: shan.luo at kcl.ac.uk
 Please visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
-* Mar 2022: One paper accepted to Pattern Recognition.
+* Mar 2022: One paper accepted to Pattern Recognition, congratulations to Jimin and the team!
 * Feb 2022: I am invited to serve as an Associate Editor for IROS 2022.
 * Feb 2022: Our Special Issue on "Biomimetic Perception, Cognition, and Control: From Nature to Robots" in Robotics and Automation Magazine closes on 1st Feb, 2022.
 * Jan 2022: One paper accepted to ICRA 2022 on masked tactile image generation, congrats to Tudor and Daniel! The dataset and code will be made available soon. Please stay tuned.
