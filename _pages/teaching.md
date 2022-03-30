@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 toc: true
 ---
-University of Liverpool
+
 # 6CCE3ROS/7CCEMROB - Robotic Systems
 * UGT (Level Three)/PGT
 * King's College London
