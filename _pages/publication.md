@@ -19,21 +19,22 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 <!-- # Preprint -->
 
 # Journal Articles
-1. Y. Luo, J. Wang, R. Shi, H.N. Liang, **S. Luo**, “In-Device Feedback in Immersive Head-Mounted Displays for Distance Perception During Teleoperation of Unmanned Ground
-Vehicles”, IEEE Transactions on Haptics, accepted. [paper link](https://ieeexplore.ieee.org/document/9664257)
-1. D.F. Gomes, P. Paoletti, **S. Luo**, “Generation of GelSight Tactile Images for Sim2Real Learning”, IEEE Robotics and Automation Letters, 2021.
-1. Y. Song, R. Koeck, **S. Luo**, “Review and Analysis of Augmented Reality for Digital Fabrication in Architecture”, Automation in Construction, 2021.
-1. **S. Luo**, N. F. Lepora, U. Martinez-Hernandez, J. Bimbo and H. Liu, “Editorial: “ViTac: Integrating Vision and Touch for Multimodal and Cross-Modal Perception”” Frontiers in Robotics and AI, 2021.
-1. M. Fisher, R. C. Cardoso, E. C. Collins, C. Dadswell, L. A. Dennis, C. Dixon, M. Farrell, A. Ferrando, X. Huang, M. Jump, G. Kourtis, A. Lisitsa, M. Luckcuck, **S. Luo**, V. Page, F. Papacchini, M. Webster, “An Overview of Verification and Validation Challenges for Inspection Robots”, Robotics, 2021.
-1. D.F. Gomes, Z. Lin, **S. Luo**, “Blocks World of Touch: Exploiting the advantages of all-around finger sensing in robot grasping” Frontiers in Robotics and AI, 2020.
-1. **S. Luo**, W. Mou, K. Althoefer, H. Liu, “iCLAP: Object Recognition by combining proprioception and tactile sensing.” Autonomous Robots, 43(4), pp 993–1004, 2019.
-1. H. Peel, **S. Luo**, A. Cohn and R. Fuentes, “Localisation of a Mobile Robot for Bridge Bearing Inspection.” Automation in Construction, 94, 244-256, 2018.
-1. **S. Luo**, J. Bimbo, R. Dahiya, H. Liu, “Robotic tactile perception: A review.” Mechatronics, 48, 54-67, 2017.
-1. **S. Luo**, L. Zhu, K. Althoefer, H. Liu, “Knock-knock: Acoustic object recognition using Stacked Denoising Autoencoders.” Neurocomputing, 267, 18-24, 2017.
-1. J. Bimbo, **S. Luo**, K. Althoefer, H. Liu, “In-hand object pose estimation using tactile to geometry matching.” IEEE Robotics and Automation Letters, 1 (1), 570-577, 2016.
-1. M. Li, S. Sareh, G. Xu, M.B. Ridzuan, **S. Luo**, J. Xie, H. Wurdemann, K. Althoefer, “Evaluation of pseudo-haptic interactions with soft objects”, PLoS One, 11 (6), 2016.
-1. **S. Luo**, W. Mou, K. Althoefer, H. Liu, “Novel Tactile-SIFT descriptor for object shape recognition.” IEEE Sensors Journal, 15 (9), 5001-5009, 2015.
-1. M. Li, **S. Luo**, T. Nanayakkara, L.D. Seneviratne, P. Dasgupta, K. Althoefer, “Multi-fingered haptic palpation using pneumatic actuators.” Sensors and Actuators A: Physical, 218, 132-141, 2014.
+1. K. Qian, X. Xu, H. Liu, J. Bai, **S. Luo**, “Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks”, Robotics and Autonomous Systems, 2022.
+2. B. Zhang, J. Xiao, Y. Wei, K. Huang, **S. Luo**, Y. Zhao, “End-to-End Weakly Supervised Semantic Segmentation with Reliable Region Mining”, Pattern Recognition, 2022.
+3. Y. Luo, J. Wang, R. Shi, H.N. Liang, **S. Luo**, “In-Device Feedback in Immersive Head-Mounted Displays for Distance Perception During Teleoperation of Unmanned Ground Vehicles”, IEEE Transactions on Haptics, 2021. [paper link](https://ieeexplore.ieee.org/document/9664257)
+4. D.F. Gomes, P. Paoletti, **S. Luo**, “Generation of GelSight Tactile Images for Sim2Real Learning”, IEEE Robotics and Automation Letters, 2021.
+5. Y. Song, R. Koeck, **S. Luo**, “Review and Analysis of Augmented Reality for Digital Fabrication in Architecture”, Automation in Construction, 2021.
+6. **S. Luo**, N. F. Lepora, U. Martinez-Hernandez, J. Bimbo and H. Liu, “Editorial: “ViTac: Integrating Vision and Touch for Multimodal and Cross-Modal Perception”” Frontiers in Robotics and AI, 2021.
+7. M. Fisher, R. C. Cardoso, E. C. Collins, C. Dadswell, L. A. Dennis, C. Dixon, M. Farrell, A. Ferrando, X. Huang, M. Jump, G. Kourtis, A. Lisitsa, M. Luckcuck, **S. Luo**, V. Page, F. Papacchini, M. Webster, “An Overview of Verification and Validation Challenges for Inspection Robots”, Robotics, 2021.
+8. D.F. Gomes, Z. Lin, **S. Luo**, “Blocks World of Touch: Exploiting the advantages of all-around finger sensing in robot grasping” Frontiers in Robotics and AI, 2020.
+9. **S. Luo**, W. Mou, K. Althoefer, H. Liu, “iCLAP: Object Recognition by combining proprioception and tactile sensing.” Autonomous Robots, 43(4), pp 993–1004, 2019.
+10. H. Peel, **S. Luo**, A. Cohn and R. Fuentes, “Localisation of a Mobile Robot for Bridge Bearing Inspection.” Automation in Construction, 94, 244-256, 2018.
+11. **S. Luo**, J. Bimbo, R. Dahiya, H. Liu, “Robotic tactile perception: A review.” Mechatronics, 48, 54-67, 2017.
+12. **S. Luo**, L. Zhu, K. Althoefer, H. Liu, “Knock-knock: Acoustic object recognition using Stacked Denoising Autoencoders.” Neurocomputing, 267, 18-24, 2017.
+13. J. Bimbo, **S. Luo**, K. Althoefer, H. Liu, “In-hand object pose estimation using tactile to geometry matching.” IEEE Robotics and Automation Letters, 1 (1), 570-577, 2016.
+14. M. Li, S. Sareh, G. Xu, M.B. Ridzuan, **S. Luo**, J. Xie, H. Wurdemann, K. Althoefer, “Evaluation of pseudo-haptic interactions with soft objects”, PLoS One, 11 (6), 2016.
+15. **S. Luo**, W. Mou, K. Althoefer, H. Liu, “Novel Tactile-SIFT descriptor for object shape recognition.” IEEE Sensors Journal, 15 (9), 5001-5009, 2015.
+16. M. Li, **S. Luo**, T. Nanayakkara, L.D. Seneviratne, P. Dasgupta, K. Althoefer, “Multi-fingered haptic palpation using pneumatic actuators.” Sensors and Actuators A: Physical, 218, 132-141, 2014.
 
 
 # Conference Papers
