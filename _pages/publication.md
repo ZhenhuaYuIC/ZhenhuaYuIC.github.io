@@ -71,7 +71,10 @@ on Robotics and Automation (ICRA), 2018.
 1. M. Li, **S. Luo**, L.D. Seneviratne, T. Nanayakkara, K. Althoefer, P. Dasgupta, “Haptics for multi-fingered palpation.”, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2013.
 1. H. Xie, H. Liu, **S. Luo**, L.D. Seneviratne, K. Althoefer, “Fiber optics tactile array probe for tissue palpation.” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2013.
 
+# Books
+Qiang Li, Shan Luo, Zhaopeng Chen, Chenguang Yang, Jianwei Zhang, “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
+
 # Book Chapters
-1. J. Jiang, **S. Luo**. “Robotic Perception of Object Properties using Tactile Sensing”, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”.
-1. G. Cao, **S. Luo**. “Multimodal perception for dexterous manipulation, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”.
-1. D.F. Gomes, **S. Luo**. “GelTip Tactile Sensor for Dexterous Manipulation in Clutter”, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”.
+1. J. Jiang, **S. Luo**. “Robotic Perception of Object Properties using Tactile Sensing”, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
+1. G. Cao, **S. Luo**. “Multimodal perception for dexterous manipulation, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
+1. D.F. Gomes, **S. Luo**. “GelTip Tactile Sensor for Dexterous Manipulation in Clutter”, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
