@@ -17,7 +17,7 @@ author_profile: true
 * Co-Investigator, EPSRC "[Robotics and Artificial Intelligence for Nuclear (RAIN) Hub](https://rainhub.org.uk/), £11.9m, Oct 2018 to Apr 2021
 
 # Capital equipment funding
-* £162k, 2021, A test bed of the Factories of the Future at the smARTLab that I led at the Digital Innovation Facility, Univeristy of Liverpool
+* £162k, 2021, A test bed of the Factories of the Future at the smARTLab that I led at the [Digital Innovation Facility](https://www.liverpool.ac.uk/digital-innovation/facilities/), Univeristy of Liverpool
 * £39k, 2018, Capital Equipment, Faculty of Science and Engineering, University of Liverpool, including one UR5 Robot Arm and one 3-finger Robotiq Gripper 
 
 # Exchange/Travel Grants
