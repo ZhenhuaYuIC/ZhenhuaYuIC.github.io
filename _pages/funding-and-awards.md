@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Ongoing Projects
 * Principal Investigator, EPSRC New Investigator Award, [ViTac: Visual-Tactile Synergy for Handling Flexible Materials](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) , £536k, Apr 2021 to Apr 2024
-* Principal Investigator (at King's), EPSRC Innovate UK SMART Grant, [ARRES PREVENT: The World-First Autonomous Road Repair Vehicle](https://www.robotiz3d.com/smart.html) , £272k, Oct 2021 to Apr 2023
+* Principal Investigator (at King's), EPSRC Innovate UK SMART Grant, [ARRES PREVENT: The World-First Autonomous Road Repair Vehicle](https://www.robotiz3d.com/smart.html) , £272k, Oct 2021 to Sep 2023
 * Principal Investigator, Unilever funded project, £71k, Oct 2021 to May 2022
 
 # Completed Projects
