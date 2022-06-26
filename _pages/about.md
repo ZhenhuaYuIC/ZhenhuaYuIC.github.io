@@ -17,9 +17,9 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openinings
-* PhD Opening: I have an opening in the areas of robot learning, tactile sensing and robot manipulation. Please find more information at [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575){:target="_blank"} The application deadline is 20 April, 2022.
-* PDRA position: I have a PDRA position on object classification and prediction using images and 3D point clouds. Please find more information at [this link](https://jobs.kcl.ac.uk/gb/en/job/040571/Research-Associate){:target="_blank"} The application deadline is 20 February, 2022.
-Please visit [Opportunities](/opportunities/) for all the opportunities.
+~~* PhD Opening: I have an opening in the areas of robot learning, tactile sensing and robot manipulation. Please find more information at [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575){:target="_blank"} The application deadline is 20 April, 2022.~~
+~~* PDRA position: I have a PDRA position on object classification and prediction using images and 3D point clouds. Please find more information at [this link](https://jobs.kcl.ac.uk/gb/en/job/040571/Research-Associate){:target="_blank"} The application deadline is 20 February, 2022.
+Please visit [Opportunities](/opportunities/) for all the opportunities.~~
 
 ## [News](/news/)
 * Jun 2022: One paper accepted to CASE 2022 and Robotics and Automation Letters (RA-L), congratulations to Jiaqi and the team!
