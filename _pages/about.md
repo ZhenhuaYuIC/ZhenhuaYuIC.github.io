@@ -24,6 +24,7 @@ Email: shan.luo at kcl.ac.uk
 Please visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Jul 2022: Our A4T paper has been selected as a finalist for the Best Student Paper Award at CASE 2022, vey well done Jiaqi!
 * Jul 2022: One paper accepted to ECCV 2022, congratulations to Kostas and the team!
 * Jun 2022: One paper accepted to IROS 2022, congratulations to Leszek and Siyuan!
 * Jun 2022: One paper accepted to CASE 2022 and Robotics and Automation Letters (RA-L), congratulations to Jiaqi and the team!
