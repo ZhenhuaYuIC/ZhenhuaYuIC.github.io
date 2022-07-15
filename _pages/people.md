@@ -7,7 +7,8 @@ toc: true
 ---
 
 # PDRA
-* Dr. Leszek Pecyna
+* Dr. Leszek Pecyna, on the EPSRC [ViTac](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) project.
+* Dr. [Jongmin Yu](https://sites.google.com/view/jongmin-yu-cv/home), on the Innovate UK [ARRES PREVENT](https://www.robotiz3d.com/smart.html) project.
 
 # PhD Students
 ## Main Supervisor
