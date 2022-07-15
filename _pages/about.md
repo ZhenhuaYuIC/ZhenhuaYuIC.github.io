@@ -28,6 +28,7 @@ Please visit [Opportunities](/opportunities/) for all the opportunities.
 * Jul 2022: One paper accepted to ECCV 2022, congratulations to Kostas and the team!
 * Jun 2022: One paper accepted to IROS 2022, congratulations to Leszek and Siyuan! [[Paper]](https://arxiv.org/abs/2204.00117)
 * Jun 2022: One paper accepted to CASE 2022 and Robotics and Automation Letters (RA-L), congratulations to Jiaqi and the team! [[Paper]](https://arxiv.org/abs/2207.04907) [[Website]](https://sites.google.com/view/affordance4trans/home?authuser=0)
+* Welcome Jongmin to join our group!
 * Apr 2022: One paper accepted to IROS 2022 and Robotics and Automation Letters (RA-L), congratulations to Min and the team! 
 * Apr 2022: Our book "[Tactile Sensing, Skill Learning, and Robotic Dexterous Manipulation](https://www.elsevier.com/books/tactile-sensing-skill-learning-and-robotic-dexterous-manipulation/li/978-0-323-90445-2)" is online!
 * Mar 2022: One paper accepted to Pattern Recognition, congratulations to Jimin and the team!
