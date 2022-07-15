@@ -24,16 +24,16 @@ Email: shan.luo at kcl.ac.uk
 Please visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
-* Jul 2022: Our A4T paper has been selected as a finalist for the Best Student Paper Award at CASE 2022, vey well done Jiaqi! [Paper](https://arxiv.org/abs/2207.04907) [Website](https://sites.google.com/view/affordance4trans/home?authuser=0)
+* Jul 2022: Our A4T paper has been selected as a finalist for the Best Student Paper Award at CASE 2022, vey well done Jiaqi! [[Paper]](https://arxiv.org/abs/2207.04907) [[Website]](https://sites.google.com/view/affordance4trans/home?authuser=0)
 * Jul 2022: One paper accepted to ECCV 2022, congratulations to Kostas and the team!
-* Jun 2022: One paper accepted to IROS 2022, congratulations to Leszek and Siyuan! [Paper](https://arxiv.org/abs/2204.00117)
-* Jun 2022: One paper accepted to CASE 2022 and Robotics and Automation Letters (RA-L), congratulations to Jiaqi and the team! [Paper](https://arxiv.org/abs/2207.04907) [Website](https://sites.google.com/view/affordance4trans/home?authuser=0)
+* Jun 2022: One paper accepted to IROS 2022, congratulations to Leszek and Siyuan! [[Paper]](https://arxiv.org/abs/2204.00117)
+* Jun 2022: One paper accepted to CASE 2022 and Robotics and Automation Letters (RA-L), congratulations to Jiaqi and the team! [[Paper]](https://arxiv.org/abs/2207.04907) [[Website]](https://sites.google.com/view/affordance4trans/home?authuser=0)
 * Apr 2022: One paper accepted to IROS 2022 and Robotics and Automation Letters (RA-L), congratulations to Min and the team! 
 * Apr 2022: Our book "[Tactile Sensing, Skill Learning, and Robotic Dexterous Manipulation](https://www.elsevier.com/books/tactile-sensing-skill-learning-and-robotic-dexterous-manipulation/li/978-0-323-90445-2)" is online!
 * Mar 2022: One paper accepted to Pattern Recognition, congratulations to Jimin and the team!
 * Feb 2022: I am invited to serve as an Associate Editor for IROS 2022.
 * Feb 2022: Our Special Issue on "Biomimetic Perception, Cognition, and Control: From Nature to Robots" in Robotics and Automation Magazine closes on 1st Feb, 2022.
-* Jan 2022: One paper accepted to ICRA 2022 on masked tactile image generation, congrats to Tudor and Daniel! The dataset and code will be made available soon. Please stay tuned. [Paper](https://arxiv.org/abs/2112.01807) [Website](https://danfergo.github.io/gelsight-simulation/)
+* Jan 2022: One paper accepted to ICRA 2022 on masked tactile image generation, congrats to Tudor and Daniel! The dataset and code will be made available soon. Please stay tuned. [[Paper]](https://arxiv.org/abs/2112.01807) [[Website]](https://danfergo.github.io/gelsight-simulation/)
 * Jan 2022: One paper accepted to Robotics and Autonomous Systems, congrats to Kun and the team!
 * Dec 2021 - One paper accepted to IEEE Transactions on Haptics, congrats to Hai-Ning and the team!
 * Nov 2021 - Started my new position as Senior Lecturer at King's College London.
