@@ -28,7 +28,7 @@ Please visit [Opportunities](/opportunities/) for all the opportunities.
 * Jul 2022: I am now a UKRI EPSRC Peer Review College member.
 * Jul 2022: Our A4T paper has been selected as a finalist for the Best Student Paper Award at CASE 2022, vey well done Jiaqi! [[Paper]](https://arxiv.org/abs/2207.04907) [[Website]](https://sites.google.com/view/affordance4trans/home?authuser=0)
 * Jul 2022: Our paper on long-tailed instance segmentation is accepted to ECCV 2022, congratulations to Kostas and the team! [[Paper]](https://arxiv.org/abs/2207.10936) [[Website]](https://github.com/kostas1515/GOL)
-* Jun 2022: Our paper on visual-tactile multimodality for following deformable objects is accepted to IROS 2022, congratulations to Leszek and Siyuan! [[Paper]](https://arxiv.org/abs/2204.00117)
+* Jun 2022: Our paper on visual-tactile multimodality for following deformable objects is accepted to IROS 2022, congratulations to Leszek and Siyuan! [[Paper]](https://arxiv.org/abs/2204.00117) [[Website]](https://github.com/lpecyna/SoftSlidingGym)
 * Jun 2022: Our paper on hierarchical Affordance detection for Transparent object depth reconstruction and grasping (A4T) is accepted to CASE 2022 and Robotics and Automation Letters (RA-L), congratulations to Jiaqi and the team! [[Paper]](https://arxiv.org/abs/2207.04907) [[Website]](https://sites.google.com/view/affordance4trans/home?authuser=0)
 * Welcome Jongmin to join our group!
 * Apr 2022: One paper accepted to IROS 2022 and Robotics and Automation Letters (RA-L), congratulations to Min and the team! 
