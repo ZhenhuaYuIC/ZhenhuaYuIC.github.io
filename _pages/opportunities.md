@@ -14,8 +14,8 @@ I am always looking for excellent and highly-motivated PhD students, postdoctora
 We are accepting PhD applications all year round.
 * English Language Requirement
 English language test certificate (minimum IELTS 6.5 overall with a minimum of 6.0 in each skill or other equivalent English qualifications), check out more [here](https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements){:target="_blank"}.
-## Funded PhD project in Robotics, Deadline: May 20, 2022
-This is a fully-funded, 3.5-year PhD studentship. The scholarship will provide funds to cover home tuition fees and living costs in line with UK Research Council funding levels. Check out more in [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575){:target="_blank"}
+## Funded PhD project in Robotics, Deadline: August 31, 2022
+This is a fully-funded, 3.5-year PhD studentship. The scholarship will provide funds to cover home tuition fees and living costs in line with UK Research Council funding levels. Check out more in [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575)
 <!-- ## PhD Studentships in Faculty of Natural, Mathematics & Engineering Sciences
 The Studentships are funded for 3/3.5/4 years depending on the project to cover the full cost of Home tuition fees, also a limited number of international fee waivers for EPSRC Studentships are available, plus a stipend bursary of £17,609 per annum, including London Allowance (the stipend bursary will rise each year to reflect the standard research council rates). Check out more in [this link](https://www.timeshighereducation.com/unijobs/listing/280113/kings-college-london-phd-studentships-in-faculty-of-natural-mathematics-and-engineering-sciences/?LinkSource=PremiumListing).-->
 ## King’s-China Scholarship Council PhD Scholarship programme (K-CSC) for Chinese PhD applicants 
@@ -30,8 +30,8 @@ You can check out other student funding at King's [here](https://www.kcl.ac.uk/s
 
 
 # Postdoctoral research positions
-## PDRA position on object classification and prediction using images and 3D point clouds, Deadline is 20 February, 2022 
-The position is funded by our Innovate UK SMART project "ARRES PREVENT: The world-first autonomous road repair vehicle", check out more details in [this link](https://jobs.kcl.ac.uk/gb/en/job/040571/Research-Associate){:target="_blank"}.
+## PDRA position in Robotics, Deadline is 11 September, 2022 
+The position is funded by our EPSRC ViTac project "ViTac: Visual-Tactile Synergy for Handling Flexible Materials", check out more details in [this link](https://jobs.kcl.ac.uk/gb/en/job/052227/Research-Associate-in-Robotics).
 
 ## Fellowships for postdoctoral researchers
 If you want to propose a collaboration based on an externally-funded post-doctoral scholarship, please get in touch with me. Here are some potential funding opportunities:
