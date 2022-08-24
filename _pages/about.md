@@ -24,7 +24,7 @@ Email: shan.luo at kcl.ac.uk
 Please visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
-* Aug 2022: I am now on [the Robotics and Mechatronics Technical Network Committee](https://engx.theiet.org/technical-networks/mechrob)! 
+* Aug 2022: I am now on [the IET Robotics and Mechatronics Technical Network Committee](https://engx.theiet.org/technical-networks/mechrob)! 
 * Aug 2022: Our paper on vision guided tactile poking for transparent object grasping is accepted to IEEE/ASME Transactions on Mechatronics (T-Mech), congratulations to Jiaqi and the team! [[Website]](https://sites.google.com/view/tactilepoking)
 * Jul 2022: I am now a UKRI EPSRC Peer Review College member.
 * Jul 2022: Our A4T paper has been selected as a finalist for the Best Student Paper Award at CASE 2022, vey well done Jiaqi! [[Paper]](https://arxiv.org/abs/2207.04907) [[Website]](https://sites.google.com/view/affordance4trans/home?authuser=0)
