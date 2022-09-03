@@ -19,11 +19,12 @@ Email: shan.luo at kcl.ac.uk
 ## Openinings
 * PhD Opening: I have a PhD position (covers home tuition fees + living expenses) in the areas of robot learning, tactile sensing and robot manipulation. Please find more information at [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575) The application deadline is 31st August, 2022. Please send me an email if you are interested in the PhD position.
 
-* PDRA position: I have a PDRA position on object classification and prediction using images and 3D point clouds. Please find more information at [this link](https://jobs.kcl.ac.uk/gb/en/job/052227/Research-Associate-in-Robotics) The application deadline is 11th August, 2022. PLease send me an email if you are interested in the post.
+* PDRA position: I have a PDRA position on object classification and prediction using images and 3D point clouds. Please find more information at [this link](https://jobs.kcl.ac.uk/gb/en/job/052227/Research-Associate-in-Robotics) The application deadline is 11th September, 2022. Please send me an email if you are interested in the post.
 
 Please visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Sep 2022: I will be an Associate Editor for ICRA 2023.
 * Aug 2022: I am now on [the IET Robotics and Mechatronics Technical Network Committee](https://engx.theiet.org/technical-networks/mechrob)! 
 * Aug 2022: Our paper on vision guided tactile poking for transparent object grasping is accepted to IEEE/ASME Transactions on Mechatronics (T-Mech), congratulations to Jiaqi and the team! [[Website]](https://sites.google.com/view/tactilepoking)
 * Jul 2022: I am now a UKRI EPSRC Peer Review College member.
