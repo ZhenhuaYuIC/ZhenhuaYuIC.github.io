@@ -25,6 +25,7 @@ author_profile: true
 * Co-Investigator, Royal Society International Exchanges Scheme, with Istituto Italiano di Tecnologia (IIT), £12k
 
 # Awards
+* Best Student Paper Award finalist, The 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)
 * 2nd Prize, Liverbot GMaster, Xi’an Jiaotong-Liverpool University & Liverpool University, RoboMaster 2021 University Championship South China Regional Competition
 * Harold Boley Award for the Most Promising Paper, 5th International Joint Conference on Rules and Reasoning (RuleML+RR 2021)
 * EPSRC New Investigator Award, ranked the first in the panel, 2020
