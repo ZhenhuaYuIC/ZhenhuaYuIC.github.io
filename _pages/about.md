@@ -17,9 +17,10 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openinings
-* PhD Opening: I have a PhD position (covers home tuition fees + living expenses) in the areas of robot learning, tactile sensing and robot manipulation. Please find more information at [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575) The application deadline is 31st August, 2022. Please send me an email if you are interested in the PhD position.
+* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available.
+<s> * PhD Opening: I have a PhD position (covers home tuition fees + living expenses) in the areas of robot learning, tactile sensing and robot manipulation. Please find more information at [this link](https://www.findaphd.com/phds/project/robotic-manipulation-with-vision-and-touching-sensing/?p138575) The application deadline is 31st August, 2022. Please send me an email if you are interested in the PhD position. </s>
 
-* PDRA position: I have a PDRA position on object classification and prediction using images and 3D point clouds. Please find more information at [this link](https://jobs.kcl.ac.uk/gb/en/job/052227/Research-Associate-in-Robotics) The application deadline is 11th September, 2022. Please send me an email if you are interested in the post.
+<s> * PDRA position: I have a PDRA position on object classification and prediction using images and 3D point clouds. Please find more information at [this link](https://jobs.kcl.ac.uk/gb/en/job/052227/Research-Associate-in-Robotics) The application deadline is 11th September, 2022. Please send me an email if you are interested in the post. </s>
 
 Please visit [Opportunities](/opportunities/) for all the opportunities.
 
