@@ -21,7 +21,11 @@ Email: shan.luo at kcl.ac.uk
 
 * PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences)
 
-* [Visiting Research Stuentships:](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
+* [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
+
+* [Fulbright Postgraduate Scholarship (for American students)](https://www.kcl.ac.uk/study-legacy/funding/fulbright-postgraduate-scholarship)
+
+* [Visiting Research Stuentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
 
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
