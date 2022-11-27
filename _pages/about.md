@@ -30,6 +30,10 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Nov 2022: Our paper on Skill Generalization of Tubular Object Manipulation with Tactile Sensing and Sim2Real Learning has been accepted to Robotics and Autonomous Systems, congratulations to Kun and the team!
+* Nov 2022: I will give a talk at [the 4th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), join us on 12th and 13th Jan 2023 in Bristol!
+* Oct 2022: I am invited to give a keynote talk at the [French research group in Robotics (GdR)](https://www.gdr-robotique.org/) days.
+* Oct 2022: I am invited to give an invited talk at Humanoid Robotics Forum.
 * Sep 2022: I will be an Associate Editor for ICRA 2023.
 * Aug 2022: I am now on [the IET Robotics and Mechatronics Technical Network Committee](https://engx.theiet.org/technical-networks/mechrob)! 
 * Aug 2022: Our paper on vision guided tactile poking for transparent object grasping is accepted to IEEE/ASME Transactions on Mechatronics (T-Mech), congratulations to Jiaqi and the team! [[Paper]](https://arxiv.org/abs/2208.09743) [[Website]](https://sites.google.com/view/tactilepoking)
