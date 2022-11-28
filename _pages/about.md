@@ -30,7 +30,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
-* Welcome Zhenxi (Nathan) to join our group!
+* Nov 2022: Welcome Zhenxi (Nathan) to join our group!
 * Nov 2022: Our paper on Skill Generalization of Tubular Object Manipulation with Tactile Sensing and Sim2Real Learning has been accepted to Robotics and Autonomous Systems, congratulations to Kun and the team!
 * Nov 2022: I will give a talk at [the 4th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), join us on 12th and 13th Jan 2023 in Bristol!
 * Oct 2022: I am invited to give a keynote talk at the [French research group in Robotics (GdR)](https://www.gdr-robotique.org/) days.
