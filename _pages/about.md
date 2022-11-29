@@ -17,7 +17,7 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openings
-* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available.
+* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: 2nd January 2023 (early submission is strongly recommended). 
 
 * PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences)
 
@@ -26,6 +26,8 @@ Email: shan.luo at kcl.ac.uk
 * [Fulbright Postgraduate Scholarship (for American students)](https://www.kcl.ac.uk/study-legacy/funding/fulbright-postgraduate-scholarship)
 
 * [Visiting Research Stuentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
+
+* Postdoctoral Fellowship: KC Wong Fellowship 2023, open to existing post-doc researchers at institutions in the People’s Republic of China (PRC),  Deadline: 17 February 2023. Interested candidates can send an email to me with a copy of your CV.
 
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
