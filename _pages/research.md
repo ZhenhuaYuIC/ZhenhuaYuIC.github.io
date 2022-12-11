@@ -19,3 +19,5 @@ The aim of our research group is to develop robots that can interact with the ph
 # High-resolution tactile sensing
 
 <img align="left" width="200" src="{{ site.url }}/images/research/GelTip.jpeg" alt="...">
+GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation
+DF Gomes, Z Lin, S Luo. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020.
