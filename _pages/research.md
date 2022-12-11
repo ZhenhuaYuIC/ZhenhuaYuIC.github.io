@@ -10,7 +10,7 @@ The aim of our research group is to develop robots that can interact with the ph
 
 {% include toc %}
 
-# Research Keywords
+<!-- # Research Keywords -->
 
 <!-- <br />
 <img align="center" width="800" src="{{ site.url }}/images/WordCloudResearch.png" alt="...">
@@ -18,4 +18,4 @@ The aim of our research group is to develop robots that can interact with the ph
  -->
 # High-resolution tactile sensing
 
-<img align="left" width="200" src="{{ site.url }}/images/research/GelTip.jpeg.png" alt="...">
+<img align="left" width="200" src="{{ site.url }}/images/research/GelTip.jpeg" alt="...">
