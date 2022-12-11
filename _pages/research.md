@@ -28,6 +28,9 @@ D.F. Gomes, Z. Lin, **S. Luo**. IEEE/RSJ International Conference on Intelligent
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/exp_contact_detection.gif" alt="...">
 Blocks world of touch: Exploiting the advantages of all-around finger sensing in robot grasping <br />
 D.F. Gomes, Z. Lin, **S. Luo**. Frontiers in Robotics and AI 7, 541661, 2020. <br />
+[[website]](https://danfergo.github.io/geltip/)
 
+<br />
+<br />
 # Simulation of optical tactile sensors
 
