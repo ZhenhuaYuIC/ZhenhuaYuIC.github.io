@@ -20,8 +20,8 @@ The aim of our research group is to develop robots that can interact with the ph
 
 <img align="left" width="200" src="{{ site.url }}/images/research/GelTip.jpeg" alt="...">
 GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation <br />
-D.F. Gomes, Z. Lin, S. Luo. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
+D.F. Gomes, Z. Lin, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
 [[website]](https://danfergo.github.io/geltip/) [[STL files]](https://danfergo.github.io/geltip/geltip2020_parts.zip)
 
 Blocks world of touch: Exploiting the advantages of all-around finger sensing in robot grasping <br />
-D.F. Gomes, Z. Lin, S. Luo, Frontiers in Robotics and AI 7, 541661, 2020. <br />
+D.F. Gomes, Z. Lin, **S. Luo**. Frontiers in Robotics and AI 7, 541661, 2020. <br />
