@@ -92,3 +92,11 @@ J. Jiang, G. Cao, T.-T. Do, **S. Luo**. IEEE Robotics and Automation Letters & I
 Where shall I touch? Vision-Guided Tactile Poking for Transparent Object Grasping <br />
 J. Jiang, G. Cao, A. Butterworth, T.-T. Do, **S. Luo**. IEEE/ASME Transactions on Mechatronics 2022. <br />
 [[paper]](https://arxiv.org/abs/2208.09743) [[website]](https://sites.google.com/view/tactilepoking) [[code]](https://github.com/3PTelephant/TransparentObjectRender) [[dataset]](https://drive.google.com/drive/folders/1ReuoAuIm4R3VkUpiQhKKpIL4wGo1TQWj) <br />
+
+<br />
+<br />
+# Minorities Matter: Long-tailed Object Recogntion
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Gumbel.jpg" alt="...">
+Long-tailed Instance Segmentation using Gumbel Optimized Loss <br />
+K. P. Alexandridis, J. Deng, A. Nguyen, **S. Luo**. European Conference on Computer Vision (ECCV) 2022. <br />
+[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700349.pdf) [[code]](https://github.com/kostas1515/GOL) <br />
