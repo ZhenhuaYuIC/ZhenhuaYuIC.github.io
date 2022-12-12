@@ -60,12 +60,14 @@ L. Pecyna, S. Dong, **S. Luo**. IEEE/RSJ International Conference on Intelligent
 Spatio-temporal attention model for tactile texture recognition <br />
 G. Cao, Y. Zhou, D. Bollegala, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
 [[paper]](https://arxiv.org/abs/2008.04442)
-
+<br />
+<br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/T2S_S2T.png" alt="...">
 "Touching to See" and "Seeing to Feel": Robotic Cross-modal SensoryData Generation for Visual-Tactile Perception <br />
 J.-T. Lee, D. Bollegala, **S. Luo**. IEEE International Conference on Robotics and Automation (ICRA) 2019. <br />
 [[paper]](https://arxiv.org/abs/1902.06273)
-
+<br />
+<br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/iCLAP.png" alt="...">
 iCLAP: Shape Recognition by Combining Proprioception and Touch Sensing <br />
 **S. Luo**, W. Mou, K. Althoefer and H. Liu. Autonomous Robots 2019. <br />
@@ -86,7 +88,8 @@ ViTac: Feature Sharing between Vision and Tactile Sensing for Cloth Texture Reco
 A4T: Hierarchical Affordance Detection for Transparent Objects Depth Reconstruction and Manipulation  <br />
 J. Jiang, G. Cao, T.-T. Do, **S. Luo**. IEEE Robotics and Automation Letters & IEEE 18th International Conference on Automation Science and Engineering (CASE) 2022 - **Best Student Paper Award Finalist**. <br /> 
 [[paper]](https://arxiv.org/abs/2008.04442) [[website]](https://sites.google.com/view/affordance4trans) [[dataset]](https://sites.google.com/view/affordance4trans) <br />
-
+<br />
+<br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Where2Touch.gif" alt="...">
 Where shall I touch? Vision-Guided Tactile Poking for Transparent Object Grasping <br />
 J. Jiang, G. Cao, A. Butterworth, T.-T. Do, **S. Luo**. IEEE/ASME Transactions on Mechatronics 2022. <br />
