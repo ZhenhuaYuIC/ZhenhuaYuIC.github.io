@@ -51,7 +51,9 @@ T. Jianu, D.F. Gomes, P. Paoletti, **S. Luo**. IEEE International Conference on 
 Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning <br />
 L. Pecyna, S. Dong, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022. <br />
 [[paper]](https://arxiv.org/abs/2204.00117) [[code]](https://github.com/lpecyna/SoftSlidingGym)
-
+<br />
+<br />
+<br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/TactileAttention.png" alt="...">
 Spatio-temporal attention model for tactile texture recognition <br />
 G. Cao, Y. Zhou, D. Bollegala, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
