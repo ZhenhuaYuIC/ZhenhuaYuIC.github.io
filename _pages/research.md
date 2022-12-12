@@ -44,7 +44,13 @@ T. Jianu, D.F. Gomes, P. Paoletti, **S. Luo**. IEEE International Conference on 
 [[paper]](https://arxiv.org/abs/2112.01807) [[website]](https://danfergo.github.io/gelsight-simulation/)
 
 <br />
+<br />
 # Robot Perception of Flexible Materials with Vision and Tactile Sensing
+
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/LeszekIROS2022.gif" alt="...">
+Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning <br />
+L. Pecyna, S. Dong, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022. <br />
+[[paper]](https://arxiv.org/abs/2204.00117) [[code]](https://github.com/lpecyna/SoftSlidingGym)
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/TactileAttention.png" alt="...">
 Spatio-temporal attention model for tactile texture recognition <br />
@@ -66,8 +72,18 @@ Iterative closest labeled point for tactile object shape recognition
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/ViTac_ICRA2018.png" alt="...">
 ViTac: Feature Sharing between Vision and Tactile Sensing for Cloth Texture Recognition <br />
-**S. Luo**, W. Yuan, E. Adelson, A. G. Cohn and R. Fuentes. IEEE International Conference on Robotics and Automation (ICRA) 2018. <br />
-[[paper]](https://arxiv.org/pdf/1802.07490.pdf) 
+**S. Luo**, W. Yuan, E. Adelson, A. G. Cohn and R. Fuentes. IEEE International Conference on Robotics and Automation (ICRA) 2018. [[paper]](https://arxiv.org/pdf/1802.07490.pdf) [dataset](https://drive.google.com/drive/folders/1uwPDUm7cDtBGJUQRe4H1KeQwcJQrnMJF?usp=share_link) <br />
 
+<br />
+<br />
+# Robot Perception of Transparent Objects with Vision and Tactile Sensing
 
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/A4T.gif" alt="...">
+A4T: Hierarchical Affordance Detection for Transparent Objects Depth Reconstruction and Manipulation  <br />
+J. Jiang, G. Cao, T.-T. Do, **S. Luo**. IEEE Robotics and Automation Letters & IEEE 18th International Conference on Automation Science and Engineering (CASE) 2022 - **Best Student Paper Award Finalist**. <br /> 
+[[paper]](https://arxiv.org/abs/2008.04442) [[website]](https://sites.google.com/view/affordance4trans) [[dataset]](https://sites.google.com/view/affordance4trans) <br />
 
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Where2Touch.gif" alt="...">
+Where shall I touch? Vision-Guided Tactile Poking for Transparent Object Grasping <br />
+J. Jiang, G. Cao, A. Butterworth, T.-T. Do, **S. Luo**. IEEE/ASME Transactions on Mechatronics 2022. <br />
+[[paper]](https://arxiv.org/abs/2208.09743) [website](https://sites.google.com/view/tactilepoking) [code](https://github.com/3PTelephant/TransparentObjectRender) [dataset](https://drive.google.com/drive/folders/1ReuoAuIm4R3VkUpiQhKKpIL4wGo1TQWj) <br />
