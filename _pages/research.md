@@ -58,8 +58,7 @@ L. Pecyna, S. Dong, **S. Luo**. IEEE/RSJ International Conference on Intelligent
 <br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/TactileAttention.png" alt="...">
 Spatio-temporal attention model for tactile texture recognition <br />
-G. Cao, Y. Zhou, D. Bollegala, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
-[[paper]](https://arxiv.org/abs/2008.04442)
+G. Cao, Y. Zhou, D. Bollegala, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. [[paper]](https://arxiv.org/abs/2008.04442)
 <br />
 <br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/T2S_S2T.png" alt="...">
@@ -78,7 +77,7 @@ Iterative closest labeled point for tactile object shape recognition
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/ViTac_ICRA2018.png" alt="...">
 ViTac: Feature Sharing between Vision and Tactile Sensing for Cloth Texture Recognition <br />
-**S. Luo**, W. Yuan, E. Adelson, A. G. Cohn and R. Fuentes. IEEE International Conference on Robotics and Automation (ICRA) 2018. [[paper]](https://arxiv.org/pdf/1802.07490.pdf) [dataset](https://drive.google.com/drive/folders/1uwPDUm7cDtBGJUQRe4H1KeQwcJQrnMJF?usp=share_link) <br />
+**S. Luo**, W. Yuan, E. Adelson, A. G. Cohn and R. Fuentes. IEEE International Conference on Robotics and Automation (ICRA) 2018. [[paper]](https://arxiv.org/pdf/1802.07490.pdf) [[dataset]](https://drive.google.com/drive/folders/1uwPDUm7cDtBGJUQRe4H1KeQwcJQrnMJF?usp=share_link) <br />
 
 <br />
 <br />
@@ -86,8 +85,7 @@ ViTac: Feature Sharing between Vision and Tactile Sensing for Cloth Texture Reco
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/A4T.gif" alt="...">
 A4T: Hierarchical Affordance Detection for Transparent Objects Depth Reconstruction and Manipulation  <br />
-J. Jiang, G. Cao, T.-T. Do, **S. Luo**. IEEE Robotics and Automation Letters & IEEE 18th International Conference on Automation Science and Engineering (CASE) 2022 - **Best Student Paper Award Finalist**. <br /> 
-[[paper]](https://arxiv.org/abs/2008.04442) [[website]](https://sites.google.com/view/affordance4trans) [[dataset]](https://sites.google.com/view/affordance4trans) <br />
+J. Jiang, G. Cao, T.-T. Do, **S. Luo**. IEEE Robotics and Automation Letters & IEEE 18th International Conference on Automation Science and Engineering (CASE) 2022 - **Best Student Paper Award Finalist**. [[paper]](https://arxiv.org/abs/2008.04442) [[website]](https://sites.google.com/view/affordance4trans) [[dataset]](https://sites.google.com/view/affordance4trans) <br />
 <br />
 <br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Where2Touch.gif" alt="...">
