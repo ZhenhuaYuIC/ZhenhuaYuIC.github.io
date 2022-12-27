@@ -32,6 +32,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Dec 2022: Our ViTac workshop has been accepted to ICRA 2023, see you in London!
 * Nov 2022: Welcome Zhenxi (Nathan) to join our group!
 * Nov 2022: Our paper on Skill Generalization of Tubular Object Manipulation with Tactile Sensing and Sim2Real Learning has been accepted to Robotics and Autonomous Systems, congratulations to Kun and the team!
 * Nov 2022: I will give a talk at [the 4th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), join us on 12th and 13th Jan 2023 in Bristol!
