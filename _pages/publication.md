@@ -21,20 +21,21 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 # 2022
 1. J. Jiang, G. Cao, A. Butterworth, T.-T. Do and **S. Luo**, “Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping”, IEEE/ASME Transactions on Mechatronics, 2022.
 2. J. Jiang, G. Cao, T.T. Do, S. Luo, “A4T: Hierarchical Affordance Detection for Transparent Objects Depth Reconstruction and Manipulation”, IEEE Robotics and Automation Letters & IEEE International Conference on Automation Science and Engineering (CASE 2022) - **Best Student Paper Finalist**, 2022.
-3. Y. Zhao, X. Jing, K. Qian, D. F. Gomes, **S. Luo**, “Skill Generalization of Tubular Object Manipulation with Tactile Sensing and Sim2Real Learning”, Robotics and Autonomous Systems, 2022.
-4. L. Pecyna, S. Dong, **S. Luo**, “Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
-5. K. Alexandridis, J. Deng, A. Nguyen, **S. Luo**, “Long-tailed Instance Segmentation using Gumbel Optimized Loss”, European Conference on Computer Vision (ECCV), 2022.
-6. K. Qian, X. Xu, H. Liu, J. Bai, **S. Luo**, “Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks”, Robotics and Autonomous Systems, 2022.
-7. M. Li, Z. Wu, C.G. Zhao, H. Yuan, T. Wang, J. Xie, G. Xu, **S. Luo**, “Facial Expressions-controlled Flight Game with Haptic Feedback for Stroke Rehabilitation: A Proof-of-Concept Study”, IEEE Robotics and Automation Letters, 2022.
-8. B. Zhang, J. Xiao, Y. Wei, K. Huang, **S. Luo**, Y. Zhao, “End-to-End Weakly Supervised Semantic Segmentation with Reliable Region Mining”, Pattern Recognition, 2022.
-9. T. Jianu, D.F. Gomes, **S. Luo**, “Reducing Tactile Sim2Real Domain Gaps via Deep Texture Generation Networks”, IEEE International Conference on Robotics and Automation (ICRA), 2022.
-10. M. Pitsikalis, T.-T. Do, A. Lisitsa, **S. Luo**, “Logic Rules Meet Deep Learning: A Novel Approach for Ship Type Classification”, International Joint Conference on Artificial Intelligence (IJCAI), 2022.
-11. Y. Luo, J. Wang, Y. Pan, **S. Luo**, P. Irani and H.-N. Liang “Teleoperation of a Fast, Omnidirectional Unmanned Ground Vehicle in the Cyber-Physical World via a VR Interface”, 2022 The 18th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry (ACM SIGGRAPH VRCAI 2022).
-12. Edited Book: Qiang Li, Shan Luo, Zhaopeng Chen, Chenguang Yang, Jianwei Zhang, “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
-13. Book Chapter: **S. Luo**, D.F. Gomes, J. Jiang, G. Cao. “Vision sensors for robotic perception”, in “Sensory Systems for Robotic Applications”, 2022.
-14. Book Chapter: J. Jiang, **S. Luo**. “Robotic Perception of Object Properties using Tactile Sensing”, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
-15. Book Chapter: G. Cao, **S. Luo**. “Multimodal perception for dexterous manipulation, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
-16. Book Chapter: D.F. Gomes, **S. Luo**. “GelTip Tactile Sensor for Dexterous Manipulation in Clutter”, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
+3. C. Yang, **S. Luo**, N. Lepora, F. Ficuciello, D. Lee, W. Wan, and C-Y. Su, “Biomimetic Perception, Cognition, and Control: From Nature to Robots”, IEEE Robotics and Automation Magazine, 2022
+4. Y. Zhao, X. Jing, K. Qian, D. F. Gomes, **S. Luo**, “Skill Generalization of Tubular Object Manipulation with Tactile Sensing and Sim2Real Learning”, Robotics and Autonomous Systems, 2022.
+5. L. Pecyna, S. Dong, **S. Luo**, “Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
+6. K. Alexandridis, J. Deng, A. Nguyen, **S. Luo**, “Long-tailed Instance Segmentation using Gumbel Optimized Loss”, European Conference on Computer Vision (ECCV), 2022.
+7. K. Qian, X. Xu, H. Liu, J. Bai, **S. Luo**, “Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks”, Robotics and Autonomous Systems, 2022.
+8. M. Li, Z. Wu, C.G. Zhao, H. Yuan, T. Wang, J. Xie, G. Xu, **S. Luo**, “Facial Expressions-controlled Flight Game with Haptic Feedback for Stroke Rehabilitation: A Proof-of-Concept Study”, IEEE Robotics and Automation Letters, 2022.
+9. B. Zhang, J. Xiao, Y. Wei, K. Huang, **S. Luo**, Y. Zhao, “End-to-End Weakly Supervised Semantic Segmentation with Reliable Region Mining”, Pattern Recognition, 2022.
+10. T. Jianu, D.F. Gomes, **S. Luo**, “Reducing Tactile Sim2Real Domain Gaps via Deep Texture Generation Networks”, IEEE International Conference on Robotics and Automation (ICRA), 2022.
+11. M. Pitsikalis, T.-T. Do, A. Lisitsa, **S. Luo**, “Logic Rules Meet Deep Learning: A Novel Approach for Ship Type Classification”, International Joint Conference on Artificial Intelligence (IJCAI), 2022.
+12. Y. Luo, J. Wang, Y. Pan, **S. Luo**, P. Irani and H.-N. Liang “Teleoperation of a Fast, Omnidirectional Unmanned Ground Vehicle in the Cyber-Physical World via a VR Interface”, 2022 The 18th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry (ACM SIGGRAPH VRCAI 2022).
+13. Edited Book: Qiang Li, Shan Luo, Zhaopeng Chen, Chenguang Yang, Jianwei Zhang, “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
+14. Book Chapter: **S. Luo**, D.F. Gomes, J. Jiang, G. Cao. “Vision sensors for robotic perception”, in “Sensory Systems for Robotic Applications”, 2022.
+15. Book Chapter: J. Jiang, **S. Luo**. “Robotic Perception of Object Properties using Tactile Sensing”, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
+16. Book Chapter: G. Cao, **S. Luo**. “Multimodal perception for dexterous manipulation, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
+17. Book Chapter: D.F. Gomes, **S. Luo**. “GelTip Tactile Sensor for Dexterous Manipulation in Clutter”, in “Tactile Sensing, Skill Learning and Robotic Dexterous Manipulation”, 2022.
 
 # 2021
 1. Y. Luo, J. Wang, R. Shi, H.N. Liang, **S. Luo**, “In-Device Feedback in Immersive Head-Mounted Displays for Distance Perception During Teleoperation of Unmanned Ground Vehicles”, IEEE Transactions on Haptics, 2021. [paper link](https://ieeexplore.ieee.org/document/9664257)
