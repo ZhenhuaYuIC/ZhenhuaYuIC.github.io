@@ -33,6 +33,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 
 ## [News](/news/)
 * Dec 2022: Our ViTac workshop has been accepted to ICRA 2023, see you in London!
+* Dec 2022: Congratulations to Yiming, Hai-Ning and the team for winning the **Best Paper Award** at ACM SIGGRAPH VRCAI 2022 for our paper "Teleoperation of a Fast Omnidirectional Unmanned Ground Vehicle in the Cyber-Physical World via a VR Interface"!
 * Nov 2022: Welcome Zhenxi (Nathan) to join our group!
 * Nov 2022: Our paper on Skill Generalization of Tubular Object Manipulation with Tactile Sensing and Sim2Real Learning has been accepted to Robotics and Autonomous Systems, congratulations to Kun and the team!
 * Nov 2022: I will give a talk at [the 4th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), join us on 12th and 13th Jan 2023 in Bristol!
