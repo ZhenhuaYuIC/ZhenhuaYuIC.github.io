@@ -24,4 +24,4 @@ toc: true
 * [Dr. Gregory Palmer](https://gjp1203.github.io/)
 * [Dr. James Butterworth](https://github.com/jamesbut)
 * [Dr. Jacopo Castellini](https://cgi.csc.liv.ac.uk/~jacopo/)
-* [Miss Lauren Parker], on the CDBB project
+* Miss Lauren Parker, on the CDBB project
