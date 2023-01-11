@@ -32,6 +32,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Jan 2023: Our Tacchi paper has been accepted to RA-L, congratulations to Zixi and the team! [website](https://github.com/zixichen007115/Tacchi)
 * Dec 2022: Our ViTac workshop has been accepted to ICRA 2023, see you in London!
 * Dec 2022: Congratulations to Yiming, Hai-Ning and the team for winning the **Best Paper Award** at ACM SIGGRAPH VRCAI 2022 for our paper "Teleoperation of a Fast Omnidirectional Unmanned Ground Vehicle in the Cyber-Physical World via a VR Interface"!
 * Nov 2022: Welcome Zhenxi (Nathan) to join our group!
