@@ -32,6 +32,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Jan 2023: Our application to the [Robot Live Lab](https://www.ukras.org.uk/robotics-week/robot-lab-live/) event has been successful, stay tuned on our live streaming of robotics research at our [Centre for Robotics Research](https://www.kcl.ac.uk/research/core)!
 * Jan 2023: Our paper on dynamic path planning is accepted to Sustainable Energy Technologies and Assessments, congratulations to Henry and the team! [paper link](https://authors.elsevier.com/a/1gQNj7tDQ9OZ2p)
 * Jan 2023: Our Tacchi paper has been accepted to RA-L, congratulations to Zixi and the team! [website](https://github.com/zixichen007115/Tacchi)
 * Dec 2022: Our ViTac workshop has been accepted to ICRA 2023, see you in London!
