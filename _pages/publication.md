@@ -18,6 +18,11 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 
 <!-- # Preprint -->
 
+# 2023
+1. Z. Chen, S. Zhang, **S. Luo**, F. Sun, and B. Fang, “Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors”, IEEE Robotics and Automation Letters, 2023.
+2. Z. Xiao, C. Liu, **S. Luo**, K. Huang, H. Gao, X. Xu, X. Wang, “A collaborative and dynamic multi-source single-destination navigation algorithm for smart cities”, Sustainable Energy Technologies and Assessments, 2023.
+
+
 # 2022
 1. J. Jiang, G. Cao, A. Butterworth, T.-T. Do and **S. Luo**, “Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping”, IEEE/ASME Transactions on Mechatronics, 2022.
 2. J. Jiang, G. Cao, T.T. Do, S. Luo, “A4T: Hierarchical Affordance Detection for Transparent Objects Depth Reconstruction and Manipulation”, IEEE Robotics and Automation Letters & IEEE International Conference on Automation Science and Engineering (CASE 2022) - **Best Student Paper Finalist**, 2022.
