@@ -19,8 +19,10 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 <!-- # Preprint -->
 
 # 2023
-1. Z. Chen, S. Zhang, **S. Luo**, F. Sun, and B. Fang, “Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors”, IEEE Robotics and Automation Letters, 2023.
-2. Z. Xiao, C. Liu, **S. Luo**, K. Huang, H. Gao, X. Xu, X. Wang, “A collaborative and dynamic multi-source single-destination navigation algorithm for smart cities”, Sustainable Energy Technologies and Assessments, 2023.
+1. G. Cao, J. Jiang, N. Mao, D. Bollegala, M. Li, **S. Luo**, “Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
+2. J. Yu, H. Oh, S. Fichera, P. Paoletti, and **S. Luo**, “Multi-source Domain Adaptation for Unsupervised Road Defect Segmentation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
+3. Z. Chen, S. Zhang, **S. Luo**, F. Sun, and B. Fang, “Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors”, IEEE Robotics and Automation Letters, 2023.
+4. Z. Xiao, C. Liu, **S. Luo**, K. Huang, H. Gao, X. Xu, X. Wang, “A collaborative and dynamic multi-source single-destination navigation algorithm for smart cities”, Sustainable Energy Technologies and Assessments, 2023.
 
 
 # 2022
