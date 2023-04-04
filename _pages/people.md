@@ -19,9 +19,10 @@ toc: true
 * Aaron Butterworth, co-supervision with Prof. Andy Cooper, (Sep. 2020 to present). Research topic: laboratory automation, visuo-tactile learning
 
 # Alumni
-* Dr. Leszek Pecyna, on the EPSRC [ViTac](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) project.
+* [Mr. Zixi Chen](https://zixichen007115.github.io/), intern at the lab, now Ph.D student at Scuola Superiore Sant’Anna (SSSA).
+* Dr. Leszek Pecyna, on the EPSRC [ViTac](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) project, now at Manufacturing Technology Centre, Liverpool.
 * [Dr. Benjamin Schnieders](https://cgi.csc.liv.ac.uk/~bsc/)
-* [Dr. Gregory Palmer](https://gjp1203.github.io/)
+* [Dr. Gregory Palmer](https://gjp1203.github.io/), now a postdoc at the L3S Research Center, Leibniz University Hannover, Germany.
 * [Dr. James Butterworth](https://github.com/jamesbut)
 * [Dr. Jacopo Castellini](https://cgi.csc.liv.ac.uk/~jacopo/)
 * Miss Lauren Parker, on the CDBB project
