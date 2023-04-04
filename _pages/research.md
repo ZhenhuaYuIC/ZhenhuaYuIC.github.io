@@ -42,6 +42,12 @@ D.F. Gomes, P. Paoletti, **S. Luo**. IEEE Robotics and Automation Letters, 6(2),
 Reducing Tactile Sim2Real Domain Gaps via Deep Texture Generation Networks <br />
 T. Jianu, D.F. Gomes, P. Paoletti, **S. Luo**. IEEE International Conference on Robotics and Automation (ICRA) 2022. <br />
 [[paper]](https://arxiv.org/abs/2112.01807) [[website]](https://danfergo.github.io/gelsight-simulation/)
+<br />
+<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/Tacchi.gif" alt="...">
+Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors <br />
+Z. Chen, S. Zhang, **S. Luo**, F. Sun, B. Fang IEEE Robotics and Automation Letters, 2023. <br />
+[[paper]](https://arxiv.org/pdf/2301.08343.pdf) [[website]](https://github.com/zixichen007115/Tacchi)
 
 <br />
 <br />
