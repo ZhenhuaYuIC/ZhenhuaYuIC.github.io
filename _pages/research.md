@@ -51,6 +51,8 @@ Z. Chen, S. Zhang, **S. Luo**, F. Sun, B. Fang IEEE Robotics and Automation Lett
 
 <br />
 <br />
+<br />
+<br />
 # Robot Perception of Flexible Materials with Vision and Tactile Sensing
 
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/LeszekIROS2022.gif" alt="...">
