@@ -17,9 +17,9 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openings
-* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: 2nd January 2023 (early submission is strongly recommended). 
+* <s> PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: 2nd January 2023 (early submission is strongly recommended). </s>
 
-* PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences)
+* <s> PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences) </s>
 
 * [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
 
@@ -27,11 +27,13 @@ Email: shan.luo at kcl.ac.uk
 
 * [Visiting Research Stuentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
 
-* Postdoctoral Fellowship: KC Wong Fellowship 2023, open to existing post-doc researchers at institutions in the People’s Republic of China (PRC),  Deadline: 17 February 2023. Interested candidates can send an email to me with a copy of your CV.
+* <s> Postdoctoral Fellowship: KC Wong Fellowship 2023, open to existing post-doc researchers at institutions in the People’s Republic of China (PRC),  Deadline: 17 February 2023. Interested candidates can send an email to me with a copy of your CV. </s>
 
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Apr 2023: Our paper on domain adaptation for Sim2Real transfer of tactile images is accepted to IEEE Transactions on Measurement and Instrumentation, congratulations to Kun and the team!
+* Mar 2023: Our TouchRoller paper is accepted to Sensors, congratulations to Guanqun and the team! [paper link](https://www.mdpi.com/1424-8220/23/5/2661)
 * Feb 2023: We will organise a Special Issue in Tactile Robotics at IEEE Transactions on Robotics (T-RO), stay tuned!
 * Feb 2023: I have been selected to join the [UKRI Future Leaders Fellows Development Network's PATHWAYS programme](https://www.flfdevnet.com/2022/12/01/the-networks-new-pathway-programme/).
 * Jan 2023: Two papers accepted to ICRA 2023, congratulations to Guanquan, Jongmin, and the team!
