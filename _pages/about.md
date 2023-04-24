@@ -17,9 +17,9 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openings
-* <s> PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: 2nd January 2023 (early submission is strongly recommended). </s>
+* PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences)
 
-* <s> PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences) </s>
+* <s> PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: 2nd January 2023 (early submission is strongly recommended). </s>
 
 * [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
 
