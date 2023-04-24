@@ -32,6 +32,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Apr 2023: Our work on simulating optical tactile sensors of complex morphologies has been accepted to RSS 2023 conference, congratulations to Daniel and the team!
 * Apr 2023: Our paper on domain adaptation for Sim2Real transfer of tactile images is accepted to IEEE Transactions on Measurement and Instrumentation, congratulations to Kun and the team!
 * Mar 2023: Our TouchRoller paper is accepted to Sensors, congratulations to Guanqun and the team! [paper link](https://www.mdpi.com/1424-8220/23/5/2661)
 * Feb 2023: We will organise a Special Issue in Tactile Robotics at IEEE Transactions on Robotics (T-RO), stay tuned!
