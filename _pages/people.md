@@ -21,8 +21,11 @@ toc: true
 # Alumni
 * [Mr. Zixi Chen](https://zixichen007115.github.io/), intern at the lab, now Ph.D student at Scuola Superiore Sant’Anna (SSSA).
 * Dr. Leszek Pecyna, on the EPSRC [ViTac](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) project, now at Manufacturing Technology Centre, Liverpool.
-* [Dr. Benjamin Schnieders](https://cgi.csc.liv.ac.uk/~bsc/)
+* [Dr. Benjamin Schnieders†](https://cgi.csc.liv.ac.uk/~bsc/)
 * [Dr. Gregory Palmer](https://gjp1203.github.io/), now a postdoc at the L3S Research Center, Leibniz University Hannover, Germany.
 * [Dr. James Butterworth](https://github.com/jamesbut)
 * [Dr. Jacopo Castellini](https://cgi.csc.liv.ac.uk/~jacopo/)
 * Miss Lauren Parker, on the CDBB project
+
+
+†Sadly, in December 2018 Benjamin Schnieders passed away, right before he would start writing his dissertation. He published his work at venues like AAMAS, ECAI and IROS, and participated several times in the RoboCup@Work competition. We collected his work into one document and on June 2nd 2020 he successfully passed his posthumous PhD viva in Liverpool. Congratulations Benjamin, Dr. Schnieders, we are very proud of you. https://cgi.csc.liv.ac.uk/~bsc/
