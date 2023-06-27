@@ -21,7 +21,7 @@ Please [email me](mailto:shan.luo@kcl.ac.uk) if you require a copy of the paper.
 # 2023
 1. G. Cao, J. Jiang, D. Bollegala, and **S. Luo**, “Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.
 2. A. Butterworth, G. Pizzuto, L. Pecyna, A. I. Cooper and **S. Luo**, “Leveraging Multi-modal Sensing for Robotic Insertion Tasks in R&D Laboratories”, IEEE International Conference on Automation Science and Engineering (CASE), 2023.
-3. D. F. Gomes, P. Paoletti and S. Luo, “Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning”, Robotics: Science and Systems (RSS), 2023.
+3. D. F. Gomes, P. Paoletti and **S. Luo**, “Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning”, Robotics: Science and Systems (RSS), 2023.
 4. X. Jing, K. Qian, T. Jianu and **S. Luo**, “Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images”, IEEE Transactions on Measurement and Instrumentation, 2023.
 5. G. Cao, J. Jiang, C. Lu, D. F. Gomes and **S. Luo**, “TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Large Surfaces”, Sensors, 2023.
 6. M Li, J Wang, S Yang, J Xie, G Xu, **S. Luo**, “A CNN-LSTM Model for Six Human Ankle Movements Classification on Different Loads”, Frontiers in Human Neuroscience, 17(82), 2023.
