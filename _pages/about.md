@@ -33,7 +33,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 
 ## [News](/news/)
 * June 2023: Our work on tactile representation learning with masked autoencoders has been accepted to IROS 2023, congratulations to Guan and the team!
-* June 2023: Our Robot Live Lab demo has been successully livestreamed on Youtube, check out [this link](https://www.youtube.com/watch?v=56y2nlB5VYg) for the recording of our demo!
+* June 2023: Our Robot Live Lab demo has been successully livestreamed on YouTube, check out [this link](https://www.youtube.com/watch?v=56y2nlB5VYg) for the recording of our demo!
 * June 2023: I am honoured to receive the Early Career Award from the UK-RAS!
 * May 2023: Our work on leveraging multi-modal sensing for robotic insertion tasks in R&D laboratories has been accepted to CASE 2023, congratulations to Aaron and the team!
 * Apr 2023: Our work on simulating optical tactile sensors of complex morphologies has been accepted to RSS 2023 conference, congratulations to Daniel and the team! [[paper link]](https://arxiv.org/abs/2305.12605) [[project website]](https://danfergo.github.io/geltip-sim/)
