@@ -7,7 +7,6 @@ toc: true
 ---
 
 # PDRA
-* Dr. Nathan (Zhenxi) Cui, on the EPSRC [ViTac](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) project.
 * Dr. [Jongmin Yu](https://sites.google.com/view/jongmin-yu-cv/home), on the Innovate UK [ARRES PREVENT](https://www.robotiz3d.com/smart.html) project.
 
 # PhD Students
@@ -20,6 +19,7 @@ toc: true
 
 # Alumni
 * [Mr. Zixi Chen](https://zixichen007115.github.io/), intern at the lab, now Ph.D student at Scuola Superiore Sant’Anna (SSSA).
+* Dr. Nathan (Zhenxi) Cui, on the EPSRC [ViTac](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) project.
 * Dr. Leszek Pecyna, on the EPSRC [ViTac](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T033517/2) project, now at Manufacturing Technology Centre, Liverpool.
 * [Dr. Benjamin Schnieders†](https://cgi.csc.liv.ac.uk/~bsc/)
 * [Dr. Gregory Palmer](https://gjp1203.github.io/), now a postdoc at the L3S Research Center, Leibniz University Hannover, Germany.
