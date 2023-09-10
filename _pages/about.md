@@ -9,7 +9,7 @@ redirect_from:
 toc: true
 ---
 
-I am currently a Senior Lecturer (Associate Professor) in Robotics at the Department of Engineering, King's College London. I am an enthusiastic and dedicated researcher doing research on machine learning and computer vision algorithms with applications in robotics, e.g., robot perception, object recognition & localisation, and multimodal sensing fusion.
+I am currently a Reader in Robotics and AI at the Department of Engineering, King's College London. I am an enthusiastic and dedicated researcher doing research on machine learning and computer vision algorithms with applications in robotics, e.g., robot perception, object recognition & localisation, and multimodal sensing fusion.
 
 I was a Lecturer (Assistant Professor) at the Department of Computer Science, the University of Liverpool, from 2018 to 2021, and was Director for the smARTLab at the Department. Prior to that, I was a Postdoctoral Research Fellow at Harvard University from 2017 to 2018, and at the University of Leeds from 2016 to 2017. I received the PhD degree in Robotics from King's College London, in 2016. I was a Visiting Scientist at the Computer Science and Artificial Intelligence Laboratory (CSAIL), MIT, in 2016. I am a Fellow of the Higher Education Academy (FHEA).
 
