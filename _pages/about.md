@@ -30,6 +30,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Sep 2023: Our work on Inverse Image Frequecy to improve long-tailed recognition has been accepted to the IEEE Transactions on Image Processing, congratulations to Kostas and the team!
 * July 2023: Our work on GelFinger, the first multi-angle optical tactile sensor, has been accepted to RA-L, congratulations to Zhonglin and the team!
 * July 2023: Our BridgeAI project has been funded.
 * July 2023: I will give a talk entitled "Empowering Robotic Manipulation: Bridging Sim-to-Real with Tactile Representations" at RSS 2023 Workshop [Interdisciplinary Exploration of Generalizable Manipulation Policy Learning: Paradigms and Debates](https://ai-workshops.github.io/interdisciplinary-exploration-of-gmpl/) on 10th July.
