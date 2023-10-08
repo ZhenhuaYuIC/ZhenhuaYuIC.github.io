@@ -32,8 +32,8 @@ Please email me with a copy of your CV if you are interested in the above opport
 ## [News](/news/)
 * Oct 2023: Our review on robotic perception of transparent objects has been accepted to the IEEE Transactions on Artificial Intelligence, congratulations to Jiaqi and the team! [[paper link]](https://arxiv.org/abs/2304.00157)
 * Sep 2023: I am promoted to Reader, thanks to all the RPL group members, collaborators, colleagues and funders!
-* Sep 2023: Our work on Inverse Image Frequecy to improve long-tailed recognition has been accepted to the IEEE Transactions on Image Processing, congratulations to Kostas and the team!
-* July 2023: Our work on GelFinger, the first multi-angle optical tactile sensor, has been accepted to RA-L, congratulations to Zhonglin and the team!
+* Sep 2023: Our work on Inverse Image Frequecy to improve long-tailed recognition has been accepted to the IEEE Transactions on Image Processing, congratulations to Kostas and the team! [[paper link]](https://arxiv.org/abs/2209.04861)
+* July 2023: Our work on GelFinger, the first multi-angle optical tactile sensor, has been accepted to RA-L, congratulations to Zhonglin and the team! [[paper link]](https://ieeexplore.ieee.org/document/10209180)
 * July 2023: Our BridgeAI project has been funded.
 * July 2023: I will give a talk entitled "Empowering Robotic Manipulation: Bridging Sim-to-Real with Tactile Representations" at RSS 2023 Workshop [Interdisciplinary Exploration of Generalizable Manipulation Policy Learning: Paradigms and Debates](https://ai-workshops.github.io/interdisciplinary-exploration-of-gmpl/) on 10th July.
 * June 2023: Our work on tactile representation learning with masked autoencoders has been accepted to IROS 2023, congratulations to Guan and the team!
