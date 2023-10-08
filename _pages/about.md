@@ -31,6 +31,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 
 ## [News](/news/)
 * Oct 2023: Our review on robotic perception of transparent objects has been accepted to the IEEE Transactions on Artificial Intelligence, congratulations to Jiaqi and the team! [[paper link]](https://arxiv.org/abs/2304.00157)
+* Oct 2023: I serve as an Associate Editor for ICRA 2023.
 * Sep 2023: I am promoted to Reader, thanks to all the RPL group members, collaborators, colleagues and funders!
 * Sep 2023: Our work on Inverse Image Frequecy to improve long-tailed recognition has been accepted to the IEEE Transactions on Image Processing, congratulations to Kostas and the team! [[paper link]](https://arxiv.org/abs/2209.04861)
 * July 2023: Our work on GelFinger, the first multi-angle optical tactile sensor, has been accepted to RA-L, congratulations to Zhonglin and the team! [[paper link]](https://ieeexplore.ieee.org/document/10209180)
