@@ -9,7 +9,7 @@ redirect_from:
 toc: true
 ---
 
-I am currently a Reader in Robotics and AI at the Department of Engineering, King's College London. I am an enthusiastic and dedicated researcher doing research on machine learning and computer vision algorithms with applications in robotics, e.g., robot perception, object recognition & localisation, and multimodal sensing fusion.
+I am currently a Reader in Robotics and AI at the Department of Engineering, King's College London, where I lead the Robot Perception Lab. I am an enthusiastic and dedicated researcher doing research on machine learning and computer vision algorithms with applications in robotics, e.g., robot perception, object recognition & localisation, and multimodal sensing fusion.
 
 I was a Lecturer (Assistant Professor) at the Department of Computer Science, the University of Liverpool, from 2018 to 2021, and was Director for the smARTLab at the Department. Prior to that, I was a Postdoctoral Research Fellow at Harvard University from 2017 to 2018, and at the University of Leeds from 2016 to 2017. I received the PhD degree in Robotics from King's College London, in 2016. I was a Visiting Scientist at the Computer Science and Artificial Intelligence Laboratory (CSAIL), MIT, in 2016. I am a Fellow of the Higher Education Academy (FHEA).
 
@@ -19,7 +19,7 @@ Email: shan.luo at kcl.ac.uk
 ## Openings
 * PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences)
 
-* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: early January 2024 (early submission is strongly recommended). </s>
+* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: 2nd January 2024 (early submission is strongly recommended). </s>
 
 * [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
 
@@ -30,6 +30,8 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Oct 2023: Our review on robotic perception of transparent objects has been accepted to the IEEE Transactions on Artificial Intelligence, congratulations to Jiaqi and the team! [[paper link]](https://arxiv.org/abs/2304.00157)
+* Sep 2023: I am promoted to Reader, thanks to all the RPL group members, collaborators, colleagues and funders!
 * Sep 2023: Our work on Inverse Image Frequecy to improve long-tailed recognition has been accepted to the IEEE Transactions on Image Processing, congratulations to Kostas and the team!
 * July 2023: Our work on GelFinger, the first multi-angle optical tactile sensor, has been accepted to RA-L, congratulations to Zhonglin and the team!
 * July 2023: Our BridgeAI project has been funded.
