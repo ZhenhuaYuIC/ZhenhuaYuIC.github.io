@@ -17,9 +17,11 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openings
-* PhD Opening: [NMES PhD Studentships](https://www.kcl.ac.uk/study-legacy/funding/phd-studentships-in-faculty-of-natural-mathematics-engineering-sciences)
+* PhD Opening: [NMES PhD Studentships](https://www.findaphd.com/phds/program/kings-college-london-phd-studentships-in-the-faculty-of-natural-mathematical-and-engineering-sciences/?p616)
 
-* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available. Deadline: 2nd January 2024 (early submission is strongly recommended). </s>
+* PhD Opening: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.
+
+* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 2nd January 2024 (early submission is strongly recommended). 
 
 * [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
 
@@ -30,6 +32,8 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Dec 2023: Our 5th ViTac workshop has been accepted to ICRA 2024, see you in Yokohama!
+* Dec 2023: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.
 * Oct 2023: Our review on robotic perception of transparent objects has been accepted to the IEEE Transactions on Artificial Intelligence, congratulations to Jiaqi and the team! [[paper link]](https://arxiv.org/abs/2304.00157)
 * Oct 2023: I serve as an Associate Editor for ICRA 2024.
 * Sep 2023: I am promoted to Reader, thanks to all the RPL group members, collaborators, colleagues and funders!
