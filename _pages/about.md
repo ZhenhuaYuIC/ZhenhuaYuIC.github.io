@@ -32,6 +32,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  Jan 2024: Our work on multimodal perception received the Best Workshop Poster at the [5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), congratulations to Jagoda and Jiaqi!
 * Jan 2024: I will give a talk at the [5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), join us on 11th and 12th Jan 2024 in Oxford!
 * Dec 2023: Our 5th ViTac workshop has been accepted to ICRA 2024, see you in Yokohama!
 * Dec 2023: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.
