@@ -33,6 +33,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 
 ## [News](/news/)
 *  Jan 2024: We have three papers accepted to ICRA 2024 (2 x ICRA, 1 x RA-L), congratulations to Jongmin, Zhonglin and Dandan, as well as all the co-authors, see you in Yokohama!
+*  Jan 2024: We will organise [the 6th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/) at King's in 2024, look forwarding to having the workshop along the River Thames and stay tuned!
 *  Jan 2024: Our work on multimodal perception received the Best Workshop Poster at the [5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), congratulations to Jagoda and Jiaqi!
 * Jan 2024: I will give a talk at the [5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), join us on 11th and 12th Jan 2024 in Oxford!
 * Dec 2023: Our 5th ViTac workshop has been accepted to ICRA 2024, see you in Yokohama!
