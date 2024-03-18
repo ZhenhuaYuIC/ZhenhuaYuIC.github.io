@@ -17,10 +17,11 @@ I was a Lecturer (Assistant Professor) at the Department of Computer Science, th
 Email: shan.luo at kcl.ac.uk  
 
 ## Openings
-* PhD Opening: [NMES PhD Studentships](https://www.findaphd.com/phds/program/kings-college-london-phd-studentships-in-the-faculty-of-natural-mathematical-and-engineering-sciences/?p616)
+<!---* PhD Opening: [NMES PhD Studentships](https://www.findaphd.com/phds/program/kings-college-london-phd-studentships-in-the-faculty-of-natural-mathematical-and-engineering-sciences/?p616)--->
 
-* PhD Opening: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.
+<!---* PhD Opening: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.--->
 
+* PhD stduentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
 * PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 2nd January 2024 (early submission is strongly recommended). 
 
 * [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
@@ -32,6 +33,9 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  March 2024: We have PhD stduentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
+*  March 2024: Our review on road surface defect detection has been accepted to IEEE Transactions on Intelligent Transportation Systems, congratulations to Jongmin and the team! [[paper link]](https://arxiv.org/pdf/2402.04297.pdf)
+*  Feb 2024: I will give a talk at the [4th International Conference on Embodied Intelligence](https://embodied-intelligence.org/) on 20th March, look forward to the discussions!
 *  Jan 2024: We have three papers accepted to ICRA 2024 (2 x ICRA, 1 x RA-L), congratulations to Jongmin, Zhonglin and Dandan, as well as all the co-authors, see you in Yokohama!
 *  Jan 2024: We will organise [the 6th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/) at King's in 2024, look forwarding to having the workshop along the River Thames and stay tuned!
 *  Jan 2024: Our work on multimodal perception received the Best Workshop Poster at the [5th UK Robot Manipulation Workshop](https://www.robot-manipulation.uk/), congratulations to Jagoda and Jiaqi!
