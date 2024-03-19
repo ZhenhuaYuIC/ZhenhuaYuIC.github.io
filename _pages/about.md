@@ -34,6 +34,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 
 ## [News](/news/)
 *  March 2024: We have PhD stduentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
+*  March 2024: Our paper on multimodal zero-shot learning for tactile texture recognition has been accepted to Robotics and Autonomous Systems, congratulations to Guan and the team! [[paper link]](https://arxiv.org/pdf/2306.12705.pdf)
 *  March 2024: Our review on road surface defect detection has been accepted to IEEE Transactions on Intelligent Transportation Systems, congratulations to Jongmin and the team! [[paper link]](https://arxiv.org/pdf/2402.04297.pdf)
 *  Feb 2024: I will give a talk at the [4th International Conference on Embodied Intelligence](https://embodied-intelligence.org/) on 20th March, look forward to the discussions!
 *  Jan 2024: We have three papers accepted to ICRA 2024 (2 x ICRA, 1 x RA-L), congratulations to Jongmin, Zhonglin and Dandan, as well as all the co-authors, see you in Yokohama!
