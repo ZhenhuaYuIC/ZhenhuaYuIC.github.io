@@ -33,6 +33,7 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  May 2024: I am elevated as an IEEE Senior Member.
 *  April 2024: Our paper on fast simulation of optical tactile sensors is accepted to RA-L, congratulations to Yongqiang, Kun and the team! [[paper link]](https://arxiv.org/abs/2404.19217) [[website]](https://github.com/Rancho-zhao/FOTS) 
 *  March 2024: We have PhD stduentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
 *  March 2024: Our paper on multimodal zero-shot learning for tactile texture recognition has been accepted to Robotics and Autonomous Systems, congratulations to Guan and the team! [[paper link]](https://arxiv.org/pdf/2306.12705.pdf)
