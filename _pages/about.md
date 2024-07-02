@@ -33,6 +33,8 @@ Email: shan.luo at kcl.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  July 2024: One paper is accepted to ECCV 2024, congratultions to Kostas!
+*  June 2024: Two papers are accepted to IROS 2024, congratulations to Zhuo, Jagoda and Jiaqi!
 *  May 2024: Congratulations to Kun for securing the K. C. Wong Postdoctoral Fellowship! He will join us as a postdoctoral researcher.
 *  May 2024: I am elevated as an IEEE Senior Member.
 *  April 2024: Our paper on fast simulation of optical tactile sensors is accepted to RA-L, congratulations to Yongqiang, Kun and the team! [[paper link]](https://arxiv.org/abs/2404.19217) [[website]](https://github.com/Rancho-zhao/FOTS) 
