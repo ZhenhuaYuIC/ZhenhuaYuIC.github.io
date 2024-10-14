@@ -22,20 +22,24 @@ Email: shan.luo at kcl.ac.uk
 <!---* PhD Opening: One [A*STAR and King’s College London PhD Studentship (October 2024 Entry)](https://www.kcl.ac.uk/research/funding/astar-phd-studentships) is available. Applications are accepted from citizens of the UK, the EU, the USA, Canada, Latin America, and Australia.--->
 
 * PhD studentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
-* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 2nd January 2024 (early submission is strongly recommended). 
+* PhD Opening: One [King's-China Scholarship Council](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) PhD position is available, open to Chinese students. Deadline: 1st January 2025 (early submission is strongly recommended). 
 
 * [Commonwealth PhD Scholarships](https://www.kcl.ac.uk/study-legacy/funding/commonwealth-phd-scholarships-for-high-income-countries)
 
 * [Fulbright Postgraduate Scholarship (for American students)](https://www.kcl.ac.uk/study-legacy/funding/fulbright-postgraduate-scholarship)
 
-* [Visiting Research Stuentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
+* [Visiting Research Studentships](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
 
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+*  Sep 2024: Welcome Tuan Nguyen from JAIST and Hengfei Zhao from Tsinghua University to start visiting our group!
+*  Sep 2024: Welcome Zhiyuan Wu, Yongqiang Zhao, Yupeng Wang to start their PhD at our group!
+*  August 2024: Our paper on transiting between marker and markerless optical tactile sensing is accepted to RA-L, congratulations to Ni and Zhuo! [[paper link]](https://arxiv.org/abs/2408.08276) [[website]](https://gitouni.github.io/Marker-Markerless-Transition/) 
 *  July 2024: One paper is accepted to ECCV 2024, congratultions to Kostas!
 *  June 2024: Two papers are accepted to IROS 2024, congratulations to Zhuo, Jagoda and Jiaqi!
-*  May 2024: Congratulations to Kun for securing the K. C. Wong Postdoctoral Fellowship! He will join us as a postdoctoral researcher.
+*  June 2024: Welcome Yang Liu to start his PhD at our group!
+*  May 2024: Congratulations to Dr Kun Wang for securing the K. C. Wong Postdoctoral Fellowship! He will join us as a postdoctoral researcher.
 *  May 2024: I am elevated as an IEEE Senior Member.
 *  April 2024: Our paper on fast simulation of optical tactile sensors is accepted to RA-L, congratulations to Yongqiang, Kun and the team! [[paper link]](https://arxiv.org/abs/2404.19217) [[website]](https://github.com/Rancho-zhao/FOTS) 
 *  March 2024: We have PhD stduentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
