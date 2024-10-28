@@ -35,7 +35,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 ## [News](/news/)
 *  Sep 2024: Welcome Tuan Nguyen from JAIST and Hengfei Zhao from Tsinghua University to start visiting our group!
 *  Sep 2024: Welcome Zhiyuan Wu, Yongqiang Zhao, Yupeng Wang to start their PhD at our group!
-*  Sep 2024: Our tactile sensing technologies have been shortlisted for the [2024 Robotics and Automation Awards](https://www.roboticsandautomationawards.co.uk/2024-shortlist)!
+*  Aug 2024: Our tactile sensing technologies have been shortlisted for the [2024 Robotics and Automation Awards](https://www.roboticsandautomationawards.co.uk/2024-shortlist)!
 *  August 2024: Our paper on transiting between marker and markerless optical tactile sensing is accepted to RA-L, congratulations to Ni and Zhuo! [[paper link]](https://arxiv.org/abs/2408.08276) [[website]](https://gitouni.github.io/Marker-Markerless-Transition/) 
 *  July 2024: One paper is accepted to ECCV 2024, congratultions to Kostas!
 *  June 2024: Two papers are accepted to IROS 2024, congratulations to Zhuo, Jagoda and Jiaqi!
