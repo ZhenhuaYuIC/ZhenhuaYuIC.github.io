@@ -35,7 +35,7 @@ Please email me with a copy of your CV if you are interested in the above opport
 ## [News](/news/)
 *  December 2024: Our paper on multi-modality tactile sensor has been accepted to T-RO Special Collection in Tactile Robotics, congratulations to Dandan and the team!
 *  November 2024: Our Royal Society International Exchange Award has been granted.
-*  Sep 2024: Our paper on topology alignment for face recognition has been accepted to NeuRIPS 2024, congratulations to Yang and the team! [paper](https://www.roboticsandautomationawards.co.uk/2024-shortlist](https://arxiv.org/abs/2410.10587) [code and models](https://github.com/modelscope/facechain/tree/main/face_module/TopoFR)
+*  Sep 2024: Our paper on topology alignment for face recognition has been accepted to NeuRIPS 2024, congratulations to Yang and the team! [paper](https://arxiv.org/abs/2410.10587) [code and models](https://github.com/modelscope/facechain/tree/main/face_module/TopoFR)
 *  Sep 2024: Welcome Tuan Nguyen from JAIST and Hengfei Zhao from Tsinghua University to start visiting our group!
 *  Sep 2024: Welcome Zhiyuan Wu, Yongqiang Zhao, Yupeng Wang to start their PhD at our group!
 *  Aug 2024: Our tactile sensing technologies have been shortlisted for the [2024 Robotics and Automation Awards](https://www.roboticsandautomationawards.co.uk/2024-shortlist)!
